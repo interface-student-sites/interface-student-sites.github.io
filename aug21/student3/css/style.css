@@ -4,24 +4,18 @@ header {
     text-align: center;
     padding: 10px;
 }
-h1 {
-    background: blue;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
 nav {
     line-height: 50px;
     background: #cccccc;
     height:600px;
     width:120px;
     float:left;
-    padding:5px;          
+    padding:5px;	      
 }
 section {
     width:330px;
     float:left;
-    padding:15px;          
+    padding:15px;	 	 
 }
 
 
@@ -30,20 +24,20 @@ footer {
     color:white;
     clear:both;
     text-align:center;
-    padding:5px;          
+    padding:5px;	 	 
 }
 
 a {
-    color: green;
-    text-decoration: none;
+	color: green;
+	text-decoration: none;
 }
 
 a:hover {
-    color: yellow;
+	color: yellow;
 }
 
 img {
-    border-radius: 100px;
-    height: 200px;
-    width: 200px;
+	border-radius: 100px;
+	height: 200px;
+	width: 200px;
 }
