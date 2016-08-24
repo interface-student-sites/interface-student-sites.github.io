@@ -1,3 +1,19 @@
-/*selector {
-property: value;
-}*/
+img {
+  height:200px;
+  width:200px;
+  display:none;
+}
+
+header {
+  
+}
+
+h1 {
+  display:none;
+}
+
+button {
+  height: 100px;
+  width: 300px;
+  background: yellow;
+}
