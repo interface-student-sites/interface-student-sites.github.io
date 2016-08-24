@@ -17,3 +17,7 @@ button {
   width: 300px;
   background: yellow;
 }
+
+p {
+  display:none;
+}
