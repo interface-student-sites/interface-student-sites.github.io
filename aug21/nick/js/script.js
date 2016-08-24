@@ -14,6 +14,6 @@ $(document).ready(function(){
     
   });
   
-  $('h1').animate({left:"1000px" })
+  $('h1').animate({left:"+=1000px"}, 1000);
   
 });
