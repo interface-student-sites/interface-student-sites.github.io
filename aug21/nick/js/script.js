@@ -9,4 +9,9 @@ $(document).ready(function(){
     $(this).css("background-color", "green");
   });
   
+  $('#fancy-text').click(function(){
+    $(this).css("font-style", "italic");
+    
+  });
+  
 });
