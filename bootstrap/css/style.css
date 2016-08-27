@@ -16,6 +16,12 @@ html {
     background: url('');
 }
 
+#modal-pic img {
+    height:100px;
+    width:100px;
+    border-radius:100px;
+}
+
 .about-section{
     height: 100%;
     padding-top: 150px;
