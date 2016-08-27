@@ -16,7 +16,7 @@ html {
     background: url('');
 }
 
-#modal-pic img {
+#modal-pic {
     height:100px;
     width:100px;
     border-radius:100px;
