@@ -48,12 +48,15 @@ html {
     background: #fff;
 }
 
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: auto;
+      height: 400px;
+      margin: auto;
+  }
+
 .navbar {
     background-color: #ccc;
 }
 
-.carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
+
