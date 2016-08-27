@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: "Raleway";
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.intro-section{
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: url('');
+}
+
+.about-section{
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.contact-section{
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.services-section{
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.navbar {
+    background-color: #ccc;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
