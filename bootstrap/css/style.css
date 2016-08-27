@@ -29,6 +29,11 @@ html {
     background: #fff;
 }
 
+#beach-photo {
+    height: 200px;
+    width: 300px;
+}
+
 .contact-section{
     height: 100%;
     padding-top: 150px;
