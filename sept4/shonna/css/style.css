@@ -6,6 +6,7 @@ property: value;
 h1 {
   font-size: 30px;
   color: red;
+  font-family:"Bad Script";
 }
 
 img {
@@ -16,6 +17,7 @@ img {
 
 p {
   color: purple;
+  font-family:"Raleway";
 }
 
 #fancy {
