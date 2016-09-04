@@ -8,6 +8,7 @@ h1{
   font-size: 30px;
   color: green;
   font-weight: bold;
+  font-family: "Bad Script";
 }
 img{
   height: 100px;
@@ -18,6 +19,7 @@ p{
     font-size: 25px;
     color: orange;
     font-style: bold;
+    font-family: "Raleway";
 }
 #fancy{
   font-size: 25px;
