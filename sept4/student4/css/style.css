@@ -19,7 +19,7 @@ p {
 }
 
 #fancy {
-  font-size: 25px
+  font-size: 25px;
   color: blue;
   text-decoration: italic;
 }
