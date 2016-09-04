@@ -8,6 +8,9 @@ font-size:30px;
 color: red;
 font-family: "bad Script";
 }
+h1:hover {
+  font-family: "Courgette";
+}
 
 img {
   height: 100px;
