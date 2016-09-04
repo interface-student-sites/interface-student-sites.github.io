@@ -16,9 +16,10 @@ img{
 }
 p{
   color: orange;
+  font-size: 25px;
 }
 #fancy{
-  font-size: 45px;
+  font-size: 25px;
   color: pink;
   font-style: italic;
 }
