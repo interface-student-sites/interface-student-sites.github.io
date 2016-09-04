@@ -32,7 +32,8 @@ body {
 .navbar-wrapper .navbar .container {
   width: auto;
 }
-
+.navbar-inverse {
+background: red;}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
