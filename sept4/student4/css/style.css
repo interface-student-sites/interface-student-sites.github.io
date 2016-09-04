@@ -14,3 +14,12 @@ img {
   border-radius: 100px;
 }
 
+p {
+  color: purple;
+}
+
+#fancy {
+  font-size: 25px
+  color: blue;
+  text-decoration: italic;
+}
