@@ -10,23 +10,26 @@ h1{
   font-weight: bold;
   font-family: "Bad Script";
 }
+
 h1 : hover {
   font-family: "Courgette";
   color: blue;
-  
 }
+
 img{
   height: 100px;
   width: 100px;
   border-radius: 100px;
 }
+
 p{
     font-size: 25px;
     color: orange;
     font-style: bold;
     font-family: "Raleway";
 }
-#fancy{
+
+#fancy {
   font-size: 25px;
   color: pink;
   font-style: italic;
