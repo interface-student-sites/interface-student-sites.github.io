@@ -13,12 +13,12 @@ img {
   width: 100px;
   border-radius: 100px;
 }
-p{
+p {
   color: purple
   
   {
     #fancy{
-  font-size: 25px;
+  font-style: 25px;
   color: pink;
   text-decoration: italic;
 }
