@@ -5,15 +5,21 @@ property: value;
 */
 h1 {
  font-size:30px;
- color:red;font-family:"Bad Script";
+ color:red;
+ font-family:"Bad Script";
+}
 
+h1:hover {
+ font-family: "Courgette";
+ color: blue;
+ 
 }
 
 img {
  height: 100px;
  width: 100px;
  border-radius: 100px;
-}
+
 p {
  font-size: 20px;
  color: orange;:
