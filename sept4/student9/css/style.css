@@ -4,6 +4,7 @@ property: value;
 }
 */
 h1{
+  display : bold;
   font-size: 30px;
   color: red;
   font-weight: bold;
