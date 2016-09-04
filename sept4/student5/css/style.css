@@ -15,10 +15,9 @@ img {
 }
 p {
   color: purple
-  
-  {
+    {
     #fancy{
-  font-style: 25px;
+  font-size: 25px;
   color: pink;
-  text-decoration: italic;
+  font-style italic;
 }
