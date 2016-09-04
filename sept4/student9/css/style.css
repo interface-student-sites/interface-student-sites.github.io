@@ -15,5 +15,10 @@ img{
   border-radius: 100px;
 }
 p{
-  color: yellow;
+  color: orange;
+}
+#fancy{
+  font-size: 25px;
+  color: pink;
+  font-style: italic;
 }
