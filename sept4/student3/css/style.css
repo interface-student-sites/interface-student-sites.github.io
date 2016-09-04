@@ -20,5 +20,5 @@ p {
 #fancy {
   font-size: 25px;
   color: pink;
-  text-decoration: italic;
+  font-style: italic;
 }
