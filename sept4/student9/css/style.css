@@ -10,9 +10,9 @@ h1{
   font-weight: bold;
 }
 img{
-  height: "100";
-  width: "100";
-  border-radius: "100";
+  height: 100px;
+  width: 100;
+  border-radius: 100;
 }
 p{
   color: yellow;
