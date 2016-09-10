@@ -111,7 +111,7 @@ a.nav-active {
   height: 620px;
 }
 
-button a {
+button a, button a:hover  {
 	color: gainsboro;
 	text-decoration: none;
 }
