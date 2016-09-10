@@ -111,6 +111,11 @@ a.nav-active {
   height: 620px;
 }
 
+button a {
+	color: gainsboro;
+	text-decoration: none;
+}
+
 /* RESOURCES CONTENT
 -------------------------------------------------- */
 
