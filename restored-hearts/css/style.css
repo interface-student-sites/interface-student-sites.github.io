@@ -11,6 +11,12 @@ footer {
     font-weight:bold;
 }
 
+.navbar-brand {
+	height:50px;
+	width: 161px;
+	
+}
+
 Under "Resources content"
 
 #headlines {
