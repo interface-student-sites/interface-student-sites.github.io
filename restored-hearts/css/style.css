@@ -1,0 +1,340 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-bottom: 40px;
+  color: #5a5a5a; 
+}
+ 
+footer {
+    font-weight:bold;
+}
+
+Under "Resources content"
+
+#headlines {
+	height: 100%;
+	background: #964b9d;
+	color: white;
+	padding: 30px;
+    text-indent:40px; 
+   font-family: 'BioRhyme', serif, bold;
+}
+
+#contact {
+    background: #964b9d;
+	color: white;
+    text-align:center;
+   font-family: 'BioRhyme', serif, bold;
+}
+
+#resources .btn {
+	background: #964b9d;
+    border: 3px;
+    font-family: 'BioRhyme', serif, bold;
+}
+
+p, h2   {
+    margin-left: 10px;}
+
+
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+/*to change the color of the navbar - use .navbar */
+.navbar {
+	background: white;
+    font: #964b9d;
+   font-family: 'BioRhyme', serif, bold;
+    font-size: 24px; 
+}
+
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+
+/* Flip around the padding for proper display in narrow viewports */
+.navbar-wrapper > .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.navbar-wrapper .navbar .container {
+  width: auto;
+}
+.navbar-brand {
+    padding: 0px;
+    vertical-align: text-top;
+}
+.nav a current {
+  background:white; 
+  color: black;
+}
+a.nav-active {
+    color:#7914FF;
+}
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  height: 640px;
+  
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 640px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  padding-top:20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: auto;
+  height: 620px;
+}
+
+/* RESOURCES CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+#resources {
+  font-family: 'BioRhyme', serif, bold;
+	padding-top: 80px;
+    
+}
+resources .col-lg-4, .col-lg-5, .col-lg-6 {
+  margin-bottom: 20px;
+  text-align: center; 
+}
+
+.resources h2 {
+  font-weight: normal;
+    text-align:center;
+    font-family: 'BioRhyme', serif, bold;
+}
+.resources .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+#resources .btn {
+	background: #964b9d;
+    margin-left: 30%;
+    color: gainsboro; 
+}
+
+.img-circle {
+    margin-left: 30%;
+}
+
+#mission {
+	height: 100%;
+	background: #964b9d;
+	color: gainsboro;
+	padding: 30px;
+    font-size: 15px;
+    font-family: 'BioRhyme', serif, bold;
+    text-align: center;
+}
+
+#mission img {
+	padding-right: 10px;
+    position: 200px;
+}
+
+#contact {
+    background: #964b9d;
+	color: gainsboro;
+    text-align:center;
+   font-family: 'BioRhyme', serif, bold;
+}
+
+#resources .btn {
+	background: #964b9d;
+    border: 3px;
+} 
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+  /* Navbar positioning foo */
+  .navbar-wrapper {
+    margin-top: 20px;
+  }
+  .navbar-wrapper .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .navbar-wrapper .navbar {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* The navbar becomes detached from the top, so we round the corners */
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    /*margin-bottom: 20px;*/
+    font-size: 21px;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+  
+  /*
+ * Off Canvas
+ * --------------------------------------------------
+ */
+  .row-offcanvas {
+    position: relative;
+    -webkit-transition: all .25s ease-out;
+         -o-transition: all .25s ease-out;
+            transition: all .25s ease-out;
+  }
+
+  .row-offcanvas-right {
+    right: 0;
+  }
+
+  .row-offcanvas-left {
+    left: 0;
+  }
+
+  .row-offcanvas-right
+  .sidebar-offcanvas {
+    right: -50%; /* 6 columns */
+  }
+
+  .row-offcanvas-left
+  .sidebar-offcanvas {
+    left: -50%; /* 6 columns */
+  }
+
+  .row-offcanvas-right.active {
+    right: 50%; /* 6 columns */
+  }
+
+  .row-offcanvas-left.active {
+    left: 50%; /* 6 columns */
+  }
+
+  .sidebar-offcanvas {
+    position: absolute;
+    top: 0;
+    width: 50%; /* 6 columns */
+  }
+}
+
+}
+
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}
+
+/* MODAL CSS
+-------------------------------------------------- */
+
+/*Accordion Styles*/
+button.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+button.accordion.active, button.accordion:hover {
+    background-color: #ddd;
+}
+
+div.panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+}
+
+div.panel.show {
+    display: block;
+}
+
+button.accordion:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+}
+
+button.accordion.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+/* Style the list */
+ul.tab {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Float the list items side by side */
+ul.tab li {float: left;}
+
+/* Style the links inside the list items */
+ul.tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.tab li a:hover {background-color: #ddd;}
+
+/* Create an active/current tablink class */
+ul.tab li a:focus, .active {background-color: #ccc;}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
