@@ -3,7 +3,11 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */   
- 
+html {
+  position: relative;
+  min-height: 100%;
+}
+
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
     margin-bottom: 60px;
@@ -46,7 +50,7 @@ hr {
 }
 
 
-footer {
+.footer {
  
   position: absolute;
   bottom: 0;
