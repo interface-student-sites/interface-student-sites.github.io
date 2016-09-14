@@ -32,11 +32,10 @@ hr {
 
 .carousel-caption {
     background-color: #ffffff;
-    border: 1px solid black;
-    opacity: 0.6;
-    filter: alpha(opacity=60); 
-    right: 10%;
-    left: 10%;
+    opacity: 0.9;
+    filter: alpha(opacity=90); 
+    right: 0%;
+    left: 0%;
     padding-bottom: 30px;
 }
 
