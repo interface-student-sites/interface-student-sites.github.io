@@ -21,7 +21,7 @@ body {
     color: #333;
 }
 
-.navbar a:hover {
+.navbar-inverse .navbar-nav>li>a:hover  {
     color: #333;
 }
 
