@@ -19,6 +19,7 @@ body {
 .navbar-inverse {
     background: white;
     color: #333;
+    border-color: #9d9d9d;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover  {
