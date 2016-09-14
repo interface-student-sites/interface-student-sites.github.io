@@ -1,0 +1,73 @@
+/*!
+ * Start Bootstrap - Small Business (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+footer {
+    padding: 30px 0;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+    }
+     #navbar-inverse {
+        background-color: darkred
+    }
+    
+    #join {
+        position: absolute;
+        right: 5px;
+        top: 1px;
+        font: 18px Roboto;
+        color: white;
+    }
+      #facebook{
+        position: absolute;
+        right: 50px;
+        top: 50px;
+          
+      }
+    #twitter{
+        position: absolute;
+        right: 10px;
+        top: 50px; 
+      }
+     #footertext {
+        position: relative;
+        top: 25px;
+        text-align: center;
+        font: 20px Roboto;
+        color: black;
+    }
+       #emailcollection{
+    position: absolute;
+         right: 5px;
+            top: 25px;
+          width: 140px;
+          height: 20px;
+          font: italic 10px / 14px DroidSerif;
+       
+      }
+    
+    #about{
+        padding-bottom: 10px;
+    }
+}
