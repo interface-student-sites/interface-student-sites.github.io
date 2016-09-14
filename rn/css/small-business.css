@@ -33,6 +33,7 @@ hr {
 .carousel-caption {
     background: #333;
     color: #fff;
+    width:100%;
 }
 
 footer {
