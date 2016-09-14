@@ -46,8 +46,15 @@ hr {
 
 
 footer {
-    padding: 30px 0;
+ 
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #fff;
 }
+
 
 @media(min-width:768px) {
     body {
