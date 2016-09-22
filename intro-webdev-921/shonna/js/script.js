@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $('p').hide();
+  $("p").fadeOut('slow');
 )};
