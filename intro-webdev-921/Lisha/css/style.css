@@ -11,6 +11,6 @@ selector {
     a {
       text-decoration:none;
     }
-    a:hover {
+    a:hover,li:hover {
       background:pink;
     }
