@@ -37,6 +37,9 @@ body {
   width: auto;
 }
 
+.navbar-default {
+  background:red;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
