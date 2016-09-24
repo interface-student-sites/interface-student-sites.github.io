@@ -1,18 +1,1 @@
-/*
-selector  {
-  property:value;
-}
-*/
 
-li {
-  font-size:40px;
-  color:red;
-  }
-
-a {
-  text-decoration: none;
-}
-
-a:hover, li:hover {
-  background:yellow;
-}
