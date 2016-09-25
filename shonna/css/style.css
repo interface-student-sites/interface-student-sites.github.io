@@ -1,8 +1,9 @@
 .backer {
-  margin-top:200px;
+  margin-top:7em;
   background: #333;
   color: #fff;
   border: .125em solid #ccc;
-  
+  padding: 1em;
+  text-align: center;
 }
   
