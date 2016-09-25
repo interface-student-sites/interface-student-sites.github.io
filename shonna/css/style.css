@@ -1,10 +1,18 @@
-.backer {
-  margin-top:7em;
+.backer, .spacing {
+
   background: #4d4d4d;
   color: #fff;
   border: .125em solid #ccc;
   padding: 1em;
   text-align: center;
+}
+
+.backer {
+    margin-top:7em;
+}
+
+.spacing {
+  margin-top:3.5em;
 }
 
 #gold {
