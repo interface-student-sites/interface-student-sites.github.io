@@ -1,8 +1,5 @@
-.container .first {
-  margin-top: 200px;
-} 
-
 .backer {
+  margin-top:200px;
   background: #333;
   color: #fff;
   border: .125em solid #ccc;
