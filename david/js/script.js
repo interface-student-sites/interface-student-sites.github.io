@@ -1,7 +1,7 @@
 $(document).ready(function(){
-  $("p").hide();
+  // $("p").hide();
   
-  $("img").click(function(){
-    $(this).hide();
-    });
+  // $("img").click(function(){
+    // $(this).hide();
+    // });
 });
