@@ -15,6 +15,11 @@
   margin-top:3.5em;
 }
 
+.padder {
+  margin: .25em;
+  padding: .25em;
+}
+
 #gold {
   color: gold;
 }
