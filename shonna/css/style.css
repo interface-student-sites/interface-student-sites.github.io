@@ -1,14 +1,8 @@
-/*
-selector {
-  property:value;
-}
-*/
-
 .container .first {
   padding-top: 150px;
-}
+} 
 
-.backer {
+#backer {
   background: #333;
   color: #fff;
   border: .125em solid #ccc;
