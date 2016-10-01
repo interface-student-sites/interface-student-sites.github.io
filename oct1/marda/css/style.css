@@ -15,7 +15,7 @@ img {
 }
 
 p:hover   {
-    background-color:pink;
+    background-color:red;
     font-style:italic;
     font-size:2em;
 }
