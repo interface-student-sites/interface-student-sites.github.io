@@ -13,3 +13,9 @@ img {
   width:200px; 
   border-radius:200px; 
 } 
+
+p:hover { 
+  background-color:yellow;
+  font-style:italic;
+  font-size:2em; 
+}
