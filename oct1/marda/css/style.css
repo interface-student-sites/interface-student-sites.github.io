@@ -5,6 +5,7 @@ selector {
 */
 body {
   background: url('https://static.pexels.com/photos/82256/pexels-photo-82256.jpeg');
+  background-size:cover;
 }
 
 h1 {
