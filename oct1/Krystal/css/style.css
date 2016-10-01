@@ -16,7 +16,7 @@ h1 {
   color:#ff33cc;
 }
 
-img {
+img, iframe {
   height:200px;
   width:200px;
   border-radius:200px;
