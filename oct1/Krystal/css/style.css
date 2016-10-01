@@ -5,7 +5,8 @@ selector {
 */
 
 body {
- background: url('https://static.pexels.com/photos/1043/red-building-industry-bricks.jpg'); 
+ background: url('https://static.pexels.com/photos/1043/red-building-industry-bricks.jpg')
+ background-size:cover;
 }
 
 h1 {
