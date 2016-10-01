@@ -1,1 +1,9 @@
-test
+/*
+selector {
+  property:value;
+}
+*/
+
+h1 {
+  color:purple;
+}
