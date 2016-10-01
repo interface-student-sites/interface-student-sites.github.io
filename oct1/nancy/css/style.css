@@ -13,7 +13,7 @@ h1 {
   color:#000066;
 } 
 
-img { 
+img, iframe { 
   height:200px; 
   width:200px; 
   border-radius:200px; 
