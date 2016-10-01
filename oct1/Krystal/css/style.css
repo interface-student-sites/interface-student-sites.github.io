@@ -4,6 +4,10 @@ selector {
 }
 */
 
+body {
+ background: url('https://static.pexels.com/photos/1043/red-building-industry-bricks.jpg'); 
+}
+
 h1 {
   color:purple;
 }
@@ -12,6 +16,10 @@ img {
   height:200px;
   width:200px;
   border-radius:200px;
+}
+
+img:hover {
+  border-radius:0px
 }
 
 p:hover {
