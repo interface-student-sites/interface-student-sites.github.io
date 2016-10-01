@@ -5,6 +5,7 @@ selector {
 */
 body {
   background: url('https://static.pexels.com/photos/1486/wood-pattern-ground-parquet-floor.jpg');
+  background-size:cover;
   
 }
 
