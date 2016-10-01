@@ -7,3 +7,15 @@ selector {
 h1 {
   color:red;
 }
+
+img {
+  height:200px;
+  width:200px;
+  border-radius:200px;
+}
+
+p:hover {
+  background:yellow;
+  font-style:italic;
+  font-size:2em;
+}
