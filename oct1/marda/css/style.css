@@ -27,7 +27,11 @@ nav {
     font-weight: bold;
 }
 
-
+section {
+    width: 300px;
+    float: left;
+    padding: 25px;
+}
 h1 {
     color:#9900ff; 
 }
