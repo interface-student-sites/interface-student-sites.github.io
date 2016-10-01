@@ -4,12 +4,18 @@ selector {
 }
 */
 
-  h1 {
+h1 {
     color:blue;
-  }
+}
 
-  img {
+img {
     height:200px;
     width:200px;
     border-radius:200px;
-  }
+}
+
+p:hover   {
+    background-color:pink;
+    font-style:italic;
+    font-size:2em;
+}
