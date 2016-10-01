@@ -23,6 +23,10 @@ img:hover {
   border-radius:0px
 }
 
+p {
+ color:#ff0000; 
+} 
+
 p:hover {
   background:pink;
   font-style:italic;
