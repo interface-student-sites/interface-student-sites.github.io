@@ -6,6 +6,7 @@ selector {
 body { 
   background: url('https://static.pexels.com/photos/2602/nature-field-summer-quantity.jpg'); 
   background-size:cover; 
+  color: #fff; 
 } 
 
 h1 { 
