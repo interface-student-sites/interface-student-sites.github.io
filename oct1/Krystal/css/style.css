@@ -7,3 +7,9 @@ selector {
 h1 {
   color:purple;
 }
+
+img {
+  height:200px;
+  width:200px;
+  border-radious:200px;
+}
