@@ -22,7 +22,7 @@ img:hover {
     border-radius:0px;
 }
 p:hover {
-  background:yellow;
+  background:#ff0000;
   font-style:italic;
   font-size:2em;
 }
