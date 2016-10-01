@@ -14,7 +14,7 @@ img {
   border-radius:200px;
 }
 
-<p:hover {
+p:hover {
   background:yellow;
   font-style:italic;
   font-size:2em;
