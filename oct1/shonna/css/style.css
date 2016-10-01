@@ -3,6 +3,10 @@ selector {
   property:value;
 }
 */
+body {
+  background: url('https://static.pexels.com/photos/1486/wood-pattern-ground-parquet-floor.jpg');
+  
+}
 
 h1 {
   color:red;
@@ -12,6 +16,10 @@ img {
   height:200px;
   width:200px;
   border-radius:200px;
+}
+
+img:hover {
+  border-radius:0px;
 }
 
 p:hover {
