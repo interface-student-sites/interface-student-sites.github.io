@@ -3,6 +3,10 @@ selector {
   property:value; 
 }
 */ 
+body { 
+  background: url('https://static.pexels.com/photos/2602/nature-field-summer-quantity.jpg'); 
+  
+} 
 
 h1 { 
   color:blue;
@@ -13,6 +17,10 @@ img {
   width:200px; 
   border-radius:200px; 
 } 
+
+img:hover {
+  border-radius:0px; 
+}
 
 p:hover { 
   background-color:yellow;
