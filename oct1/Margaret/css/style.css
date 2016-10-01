@@ -10,10 +10,10 @@ body {
 }
 
 h1 {
-  color:#ff0000;
+  color:#fff;
 } 
 
-img {
+img, iframe {
   height:200px;
   width:200px;
   border-radius:200px;
