@@ -5,5 +5,9 @@ body {
 img {
   height:200px;
   width:200px;
-  boarder-radius:200px;
+  border-radius:200px;
+}
+
+img: hover {
+  border-radius:0px;
 }
