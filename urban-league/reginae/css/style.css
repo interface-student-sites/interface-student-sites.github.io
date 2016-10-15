@@ -1,1 +1,33 @@
-test
+header { 
+  background:red; 
+  color:white; 
+  text-align: center; 
+  padding: 10px;
+}
+nav{
+  line-height: 50px;
+  background: purple;
+  height:600px; 
+  width:120px;
+  float:left;
+  padding:5px;
+}
+section{ 
+  width:330px;
+  float:left;   
+  padding:15px;
+}
+footer {    
+  background:blue;
+  color:pink;
+  clear:both;
+  text-align:center;
+  padding;5px;
+  
+  
+  
+    
+    
+    
+
+  
