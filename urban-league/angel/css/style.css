@@ -1,1 +1,27 @@
+header {
+  background:blue;
+  color:green;
+  text-align:center;
+  padding:10px;
+  }
+nav }
+    line-height:50px;
+    background:turquoise;
+    height:600px;
+    width:120px;
+    float:left;
+    padding:15px;
+  }
+section{
+  width:330px;
+  float:left;
+  padding:15px;
+}
 
+footer{
+  background:blue;
+  color:green;
+  clear:both
+   text-align:center;
+  padding:5px;
+}
