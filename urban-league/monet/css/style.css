@@ -1,35 +1,35 @@
-header (
+header {
 background:blue;
 color:white;
 text-align: center;
 padding:10px;
-)
-nav (
+}
+nav {
 line-height: 50px;
-background: red;
+background: red; 
 height:600px;
 width:120px;
 float:left; 
 padding:5px;
-)
-section (
+}
+section {
 width:330px;
 float:left;
 padding:5px
-)
-footer (
+}
+footer {
 background:blue;
 color:white;
 clear:both;
 text-align:center;
 padding:5px;
-)
-a (
+}
+a {
 color:green
 text-decoration:none;
-)
-img (
+}
+img {
 border-radius:100px
 height:200px;
 width:200px;
-)
+}
