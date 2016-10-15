@@ -24,3 +24,15 @@ footer {
   text-align:center;
   padding:5px;
 }
+a{
+  color:green;
+  text-decoration:none;
+}
+a:hover{
+  color:yellow;
+}
+img{
+  border-radius:100px;
+  height:200px;
+  width:200px;
+}
