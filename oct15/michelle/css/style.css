@@ -8,3 +8,8 @@ h1 {
   font-family: verdana;
   color: yellow;
 }
+
+img {
+  height: 100%;
+  width: 100%;
+}
