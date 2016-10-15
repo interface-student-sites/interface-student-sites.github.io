@@ -4,7 +4,7 @@ header {
   text-align:center;
   padding:10px;
   }
-nav }
+nav {
     line-height:50px;
     background:turquoise;
     height:600px;
@@ -25,3 +25,14 @@ footer{
    text-align:center;
   padding:5px;
 }
+a{
+  color:baby blue;
+  text-decoration:none;
+}
+a:hover{
+  color:purple;
+}
+img{
+  border-radius:100px;
+  height:200px;
+  width:200px
