@@ -1,3 +1,9 @@
 body {
   background: red;
 }
+
+img {
+  height:200px;
+  width:200px;
+  boarder-radius:200px;
+}
