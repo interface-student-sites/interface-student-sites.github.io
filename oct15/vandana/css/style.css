@@ -2,7 +2,9 @@ body
 {
   background: pink;
   }
-
+h1,p{
+  color:yellow;
+}
 img
 {
   height:200px;
@@ -10,6 +12,10 @@ img
   border-radius:200px;
 }
 img:hover{
+  border-radius:0px;
+}
+
+#square{
   border-radius:0px;
 }
 
