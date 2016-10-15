@@ -11,3 +11,9 @@ img {
 img:hover {
     border-radius:0px;
 }
+
+a:hover {
+    text-decoration:none;
+    color:red
+}     
+ 
