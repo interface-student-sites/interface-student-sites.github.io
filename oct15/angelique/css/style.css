@@ -1,5 +1,5 @@
 body {
-  background:Pink;
+  background:brightPink;
   }
 
 img {
@@ -12,5 +12,5 @@ img:hover {
 }
 a:hover{
   text-decoration:none;
-  color:black
+  color:Black
 }
