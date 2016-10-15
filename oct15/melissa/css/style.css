@@ -6,3 +6,6 @@ img {
   width: 450px;
   border-radius: 450px;
 }
+img:hover {
+  border-radius: 0px;
+}
