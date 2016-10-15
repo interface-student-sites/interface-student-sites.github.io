@@ -2,8 +2,10 @@ body
 {
   background: pink;
   }
+
 h1,p{
   color:yellow;
+  text-align: center;
 }
 img
 {
