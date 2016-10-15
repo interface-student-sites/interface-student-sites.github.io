@@ -2,8 +2,11 @@ body {
   background: gold;
 }
 
+
+
 h1, p {
-  color:white;
+  color: white;
+  text-align: center;
 }
 
 img {
