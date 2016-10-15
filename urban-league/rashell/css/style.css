@@ -11,9 +11,22 @@ nav{
   padding:15px;
 }
 footer{
-  background:pink
-    color:white
+  background:pink;
+    color:white;
     clear:both;
   text-align:center;
   padding:5px;
 }
+a{
+  color:purple;
+    text-decoration: none;
+}
+  a:hover{
+    color:pink;
+}
+img{
+  border-radius:100px;
+  height:200px;
+  width:200px;
+}
+  
