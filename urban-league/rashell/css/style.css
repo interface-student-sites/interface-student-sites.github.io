@@ -1,1 +1,19 @@
-
+header{
+  background:pink;
+    color:white;
+  text-align: center;
+  padding:;10px;
+}
+nav{
+  line-height:600px;
+  width:120px;
+ float:left;
+  padding:15px;
+}
+footer{
+  background:pink
+    color:white
+    clear:both;
+  text-align:center;
+  padding:5px;
+}
