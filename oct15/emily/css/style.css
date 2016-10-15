@@ -2,6 +2,10 @@ body {
   background: red;
 }
 
+h1, p {
+  color:white;
+}
+
 img {
   height:200px;
   width:200px;
