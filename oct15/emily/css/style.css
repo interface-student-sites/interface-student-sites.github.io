@@ -8,7 +8,7 @@ img {
   border-radius:200px;
 }
 
-img: hover {
+img:hover {
   border-radius:0px;
 }
 
