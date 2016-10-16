@@ -7,13 +7,13 @@ header {
 nav{
   line-height: 50px;
   background: purple;
-  height:600px; 
-  width:120px;
+  height:100%; 
+  width:20%;
   float:left;
   padding:5px;
 }
 section{ 
-  width:330px;
+  width:80%;
   float:left;   
   padding:15px;
 }
