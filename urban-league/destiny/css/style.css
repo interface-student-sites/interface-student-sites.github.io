@@ -8,12 +8,12 @@ nav {
   line-height:50px;
   background:#cccccc;
   height:600px;
-  width:120px;
+  width:15%;
   float:left;
   padding:5px;
 }
 section {
-  width:330px;
+  width:75%;
   float:left;
   padding:15px;
 }
