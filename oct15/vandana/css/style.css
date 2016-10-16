@@ -20,6 +20,12 @@ img:hover{
 #square{
   border-radius:0px;
 }
+.right {
+    float: right;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
 
 a:hover{
  text-decoration:none;
