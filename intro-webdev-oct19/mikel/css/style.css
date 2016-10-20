@@ -5,6 +5,22 @@ selector {
 */
 img {
   border-radius:10em;
-  height:20em;
+  height:10em;
   width:10em;
 }
+
+img:hover {
+  border-radius: 0; 
+}
+
+a {
+  text-decoration: none;
+  color: red;
+  color: #cc33ff;
+}
+
+a:hover {
+  color:#ffffff;
+  background:#cc33ff;
+}
+
