@@ -9,3 +9,18 @@ img {
   height:10em;
   width:10em;
 }
+
+img:hover {
+  
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    color: white;
+    background: red;
+}
+
