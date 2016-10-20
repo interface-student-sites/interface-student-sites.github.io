@@ -11,12 +11,18 @@ img {
   /* comment note for css */
 }
 
+img:hover {
+  border-radius: 0;
+}
+
 a {
   text-decoration: none;
   color: #FFB612;
 }
 
-p {
-  font-size: 5em;
-  color: #222222; 
+a:hover {
+  color: #ffffff;
+  background: #FFB612;
 }
+
+
