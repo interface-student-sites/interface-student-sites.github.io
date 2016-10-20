@@ -34,6 +34,12 @@ h1 {
   color: #444444;
 }
 
+#sub-heading {
+  font-family: arial, verdana, san-serif;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 1em;
+}
 p {
   font-family: arial, verdana, san-serif;
 }
