@@ -1,1 +1,25 @@
-test
+/*
+selector {
+  property: value;
+}
+*/
+
+img {
+  border-radius:10em;
+  height:10em;
+  width:10em;
+}
+
+img:hover {
+  border-radius: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #cc33ff;
+}
+
+a:hover {
+  color: #ffffff;
+  background:#cc33ff;
+}
