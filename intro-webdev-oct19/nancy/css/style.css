@@ -12,6 +12,11 @@ img{
 
 a {
   text-decoration: none; 
-  color: red; 
+  color: #cc33ff; 
 } 
+
+a:hover {
+  color: #ffffff; 
+  background:#cc33ff; 
+}
 
