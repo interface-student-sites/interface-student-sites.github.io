@@ -33,6 +33,7 @@ a {
 a:hover {
   color: #ffffff;
   background: #FFB612;
+  padding: .2em;
 }
 
 h1 {
@@ -51,3 +52,7 @@ h1 {
   color: grey;
 }
 
+.boom {
+  font-weight: bold;
+  font-size: 2.5em;
+}
