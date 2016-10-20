@@ -13,6 +13,9 @@ img {
 img:hover {
   border-radius: 0;
 }
+#square-corners{
+}
+  border-radius: 0;
 
 a {
     text-decoration: none;
@@ -24,3 +27,6 @@ a:hover {
     background: green;
 }
 
+#pink-paragraph{
+    color: pink;
+}
