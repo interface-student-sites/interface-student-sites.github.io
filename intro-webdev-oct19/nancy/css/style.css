@@ -9,3 +9,9 @@ img{
   height:10em; 
   width:10em; 
 }
+
+a {
+  text-decoration: none; 
+  color: red; 
+} 
+
