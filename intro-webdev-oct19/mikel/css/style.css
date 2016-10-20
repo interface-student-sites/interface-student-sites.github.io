@@ -13,6 +13,10 @@ img:hover {
   border-radius: 0; 
 }
 
+#square-corners {
+  border-radius: 0;
+}
+
 a {
   text-decoration: none;
   color: red;
@@ -24,3 +28,6 @@ a:hover {
   background:#cc33ff;
 }
 
+#pink-paragraph {
+  color: pink;
+}
