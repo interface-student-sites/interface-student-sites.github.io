@@ -12,7 +12,8 @@ img {
 img:hover {
     border-radius: 0;
 }
-#square-corners 
+#square-corners {
+}
 a {
     text-decoration: none;
  color: #FF0000;   
