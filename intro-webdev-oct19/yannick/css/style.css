@@ -11,7 +11,7 @@ img {
 }
 
 img:hover {
-  border-radius: 10em;
+  border-radius: 0;
 }
 
 a {
