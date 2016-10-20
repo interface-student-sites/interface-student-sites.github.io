@@ -29,8 +29,13 @@ a:hover {
 }
 
 h1 {
+  font-family: arial, verdana, san-serif;
   font-size: 2em;
   color: #444444;
+}
+
+p {
+  font-family: arial, verdana, san-serif;
 }
 
 #grey-paragraph {
