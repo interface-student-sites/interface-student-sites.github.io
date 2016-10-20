@@ -4,4 +4,8 @@ selector {
 }
 */ 
 
-
+img{
+  border-radius: 10em;
+  height:10em; 
+  width:10em; 
+}
