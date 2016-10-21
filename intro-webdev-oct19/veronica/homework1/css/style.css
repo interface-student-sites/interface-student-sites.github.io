@@ -1,12 +1,12 @@
 header {
-  background: purple;
+  background: #F6047D;
   color: #F933FF;
   text-align: center;
   padding: 10px;
 }
 nav{
   line-height: 50px;
-  background: pink;
+  background: #884EA0;
   height:600px;
   width:120px;
   float:left;
@@ -19,7 +19,7 @@ section {
 }
 
 footer{
-  background:pink;
+  background:#884EA0;
   color:#837F81;
   clear:both;
   text-align:center;
@@ -30,7 +30,7 @@ a {
   text-decoration:none;
 }
 a:hover{
-  color:yellow;
+  color:#58F2E4;
 }
 img{
   border-radius: 100px;
