@@ -1,4 +1,4 @@
-/*selector 
+  /*selector 
 {  
 property: value;
 }
@@ -34,7 +34,7 @@ a{
 }
 
 a:hover {
-  color: yellow;
+  color: red;
 }
 img {
   border-radius: 100px;
