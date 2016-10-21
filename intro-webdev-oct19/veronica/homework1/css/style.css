@@ -20,13 +20,13 @@ section {
 
 footer{
   background:pink;
-  color:#dddddd;
+  color:#837F81;
   clear:both;
   text-align:center;
   padding:5px;
 }
 a {
-  color:red;
+  color:#F08080;
   text-decoration:none;
 }
 a:hover{
