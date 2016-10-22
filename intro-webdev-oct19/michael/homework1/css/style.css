@@ -1,6 +1,6 @@
 header {
   background: #00ddeb;
-  border-bottom-width: 1px;
+  border-bottom-width: .2em;
   border-bottom-color: #eeeeee;
   color: white;
   text-align: center;
@@ -23,7 +23,7 @@ section {
   }
   
 footer {
-  background: #222222;
+  background: #666666;
   color: white;
   clear: both;
   text-align: center;
