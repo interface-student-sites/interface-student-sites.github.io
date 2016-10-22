@@ -4,7 +4,8 @@ $('img').click(function(){
 $(this).hide();
 
 });
-
-$('header').css("backgroud-color", "red");
+$('header').click(function(){
+$(this).css("backgroud-color", "red");
+  
   });
 });
