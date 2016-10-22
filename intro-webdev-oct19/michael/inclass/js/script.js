@@ -4,7 +4,7 @@ $(document).ready(function () {
   });
 
   $('header').click(function() {
-    $(this).css("background", "orange");
+    $('header').css("background", "orange");
   });
 
 });
