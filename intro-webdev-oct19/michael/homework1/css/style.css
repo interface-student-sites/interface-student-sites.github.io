@@ -1,5 +1,5 @@
 header {
-  background: blue:
+  background: blue;
   color: white;
   text-align: center;
   padding: 10px;
@@ -33,7 +33,7 @@ a {
   text-decoration: none;
   }
   
-a: hover {
+a:hover {
   color: yellow;
   }
   
