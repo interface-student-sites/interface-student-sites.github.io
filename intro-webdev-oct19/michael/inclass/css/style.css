@@ -61,8 +61,8 @@ section {
 }
 
 footer {
-  background: #666666;
-  color: white;
+  border-top: 6px solid #666666;
+  color: #334748;
   clear: both;
   text-align: center;
   padding: .8em;
