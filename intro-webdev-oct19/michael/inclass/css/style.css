@@ -3,6 +3,9 @@ selector {
   property:value;
   }
 */
+body {
+ padding: 0; 
+}
 
 header {
   background: #334748;
