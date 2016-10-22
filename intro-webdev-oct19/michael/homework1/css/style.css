@@ -1,5 +1,7 @@
 header {
-  background: blue;
+  background: #00ddeb;
+  border-bottom-width: 1px;
+  border-bottom-color: #eeeeee;
   color: white;
   text-align: center;
   padding: 10px;
@@ -7,7 +9,7 @@ header {
   
 nav {
   line-height: 50px;
-  background: #cccccc;
+  background: #eeeeee;
   height: 600px;
   width: 120px;
   float: left;
@@ -21,7 +23,7 @@ section {
   }
   
 footer {
-  background: blue;
+  background: #222222;
   color: white;
   clear: both;
   text-align: center;
@@ -29,12 +31,12 @@ footer {
   }
   
 a {
-  color: green;
+  color: yellow;
   text-decoration: none;
   }
   
 a:hover {
-  color: yellow;
+  color: white;
   }
   
 img {
