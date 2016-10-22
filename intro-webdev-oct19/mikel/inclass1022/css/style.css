@@ -56,11 +56,12 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
-footer img {
-  height:1em;
-  width:1em;
-}
 footer #linkedinSocial {
   height:2em;
   width: 2em;
 }
+footer img {
+  height:1em;
+  width:1em;
+}
+
