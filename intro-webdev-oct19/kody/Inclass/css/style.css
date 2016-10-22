@@ -11,3 +11,19 @@ header {
   padding:10px;
  
 }
+
+#pink {
+ color: red;
+ font-size: 2em;
+ font-style:italic;
+}
+
+nav {
+ line-height: 3em;
+ background:#cccccc;
+ height:37em;
+ width:7.5em;
+ float:right;
+ padding:.03125em;
+}
+ 
