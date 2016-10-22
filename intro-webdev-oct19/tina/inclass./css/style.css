@@ -7,7 +7,42 @@ selector {
 header{
   background: blue;
   color: white;
-  padding: 10px;
+  padding: .625em;
   text-align: center;
   
+}
+
+#blue {
+  color: blue;
+  font-size: 2em;
+  font-style: italic;
+}
+
+  nav {
+    line-height: 3em;
+    background: #cccccc;
+    height:37.5em;
+    width:7.5em;
+    float: left;
+    padding: .3em;
+  }
+  
+  section {
+    width:20.625em;
+    float: left;
+    padding: 1em;
+  }
+  
+    #left-content {
+      width: 10em;
+      float: left;
+    }
+      #right-content {
+        width: 9.6em;
+        float: right;
+    }
+#right-content img{
+ height: 10em;
+  width:10em;
+  border-radius:10em;
 }
