@@ -48,3 +48,25 @@ width:20.6em;
  width:10em;
  border-radius:10em;
 }
+
+footer {
+ background:blue'
+  color:white;
+ clear:both;
+ text-align:center;
+ padding:5px;
+}
+
+footer a {
+ text-decoration:none;
+ color:#ccc; 
+}
+
+footer a:hover {
+ text-decoration:underline;
+}
+
+footer #social {
+ height:1em;
+ width:1em;
+}
