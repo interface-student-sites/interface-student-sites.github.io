@@ -36,5 +36,11 @@ width: 9.6 em;
   float: right;
 
 }
+#right-content img {
+height:10em;
+  width:10em;
+  border-radius:10em;
+  
+}
 
   
