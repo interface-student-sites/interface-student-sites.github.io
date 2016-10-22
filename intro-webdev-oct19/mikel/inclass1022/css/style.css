@@ -49,14 +49,18 @@ footer {
   text-align: center;
   padding:.75em;
 }
-footer img {
-  height:5em;
-  width:5em;
-}
 footer a {
   text-decoration: none;
   color: #ccc;
 }
 footer a:hover {
   text-decoration: underline;
+}
+footer img {
+  height:1em;
+  width:1em;
+}
+footer #linkedinSocial {
+  height:2em;
+  width: 2em;
 }
