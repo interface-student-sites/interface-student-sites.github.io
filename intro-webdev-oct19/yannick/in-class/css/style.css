@@ -31,11 +31,11 @@ section {
   padding: 1em;
 }
 
-#left-content: {
+#left-content {
   width: 10em;
   float:left;
 }
-#right-content: {
+#right-content {
   width: 9.6em;
   float: right:
 }
