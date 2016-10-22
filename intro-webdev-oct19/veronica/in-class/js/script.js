@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-$('button').click(functionm(){
+$('button').click(function(){
 $('img').hide();
 
 });
