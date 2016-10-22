@@ -3,4 +3,7 @@ $(document).ready(function () {
     $(this).hide();
   });
 
+  $('header').click(function(){
+    $(this).css("background-color","red");
+  
 });
