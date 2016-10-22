@@ -17,3 +17,12 @@ header {
   font-style: italic: 
 }
   
+nav {
+  line-height: 50px; 
+  background: #cccccc; 
+  height:600px; 
+  width: 120px; 
+  float:right; 
+  padding:5px; 
+} 
+
