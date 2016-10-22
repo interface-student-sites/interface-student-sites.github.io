@@ -3,3 +3,10 @@ selector {
   property: value;
   }
 */
+header{
+  background: blue;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  
+}
