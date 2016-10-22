@@ -40,6 +40,11 @@ section {
   float: right:
 }
 
+footer #social {
+  height:1em;
+  width:1em;
+}
+
 #right-content img {
   height:10em;
   width:10em;
