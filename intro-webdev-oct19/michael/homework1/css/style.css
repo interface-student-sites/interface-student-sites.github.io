@@ -1,5 +1,5 @@
 header {
-  background: #00ddeb;
+  background: #334748;
   border-bottom-width: 1em;
   border-bottom-color: #b6baa3;
   color: white;
@@ -36,7 +36,7 @@ a {
   }
   
 a:hover {
-  color: yellow;
+  color: #b6baa3;
   }
   
 img {
