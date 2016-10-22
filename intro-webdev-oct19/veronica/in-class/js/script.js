@@ -5,6 +5,6 @@ $(this).hide();
 
 });
 
-$('header").css("backgroud-color", "red");
+$('header').css("backgroud-color", "red");
   });
 });
