@@ -1,11 +1,11 @@
-$(document).ready(function(){
+$(document).ready(function (){
 
-$('img').click(function(){
+$('img').click(function (){
 $(this).hide();
 
 });
-$('header').click(function(){
-$(this).css("backgroud-color", "red");
+$('header').click(function (){
+$(this).css("background-color", "red");
   
   });
 });
