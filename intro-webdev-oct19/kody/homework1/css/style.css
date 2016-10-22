@@ -28,16 +28,15 @@ footer {
 }
 
 a {
-	color: navy;
+	color: green;
 	text-decoration: none;
 }
 
 a:hover {
-	color: blue;
+	color: yellow;
 }
 img {
 	border-radius: 100px;
 	height: 200px;
 	width: 200px;
 }
- 
