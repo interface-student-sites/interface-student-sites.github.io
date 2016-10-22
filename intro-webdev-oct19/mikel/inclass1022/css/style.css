@@ -8,5 +8,18 @@ header {
   color: white;
   text:align: center;
   padding:10px;
-  
+}
+
+#green {
+  color: red;
+  font-size: 2em;
+  font-style: italic;
+}
+nav {
+  line-height: 3em;
+  background:#cccccc;
+  height:37em;
+  width:7em;
+  float:right;
+  padding:.5em;
 }
