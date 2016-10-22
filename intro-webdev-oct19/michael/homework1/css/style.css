@@ -1,7 +1,7 @@
 header {
   background: #00ddeb;
-  border-bottom-width: .2em;
-  border-bottom-color: #eeeeee;
+  border-bottom-width: 1em;
+  border-bottom-color: #b6baa3;
   color: white;
   text-align: center;
   padding: 10px;
@@ -9,7 +9,7 @@ header {
   
 nav {
   line-height: 50px;
-  background: #eeeeee;
+  background: #b6baa3;
   height: 600px;
   width: 120px;
   float: left;
