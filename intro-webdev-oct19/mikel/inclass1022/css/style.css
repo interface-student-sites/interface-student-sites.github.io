@@ -6,7 +6,7 @@ selector {
 header {
   background:blue;
   color: white;
-  text:align: center;
+  text-align: center;
   padding:.75em;
 }
 #green {
@@ -22,3 +22,25 @@ nav {
   float:right;
   padding:.5em;
 }
+section {
+  width:20.6em
+  float:left;
+  padding:1em;
+  
+}
+#left-content {
+  width:10em;
+  float:left;
+}
+#right-content {
+  width:9.6em;
+  float:right;
+  
+}
+
+#right-content img {
+  height:10em;
+  width:10em;
+  border-radius: 10em;
+}
+
