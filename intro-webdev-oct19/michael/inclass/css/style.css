@@ -29,6 +29,15 @@ nav {
   padding: .8em;
 }
 
+nav a {
+  color: #334748; 
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
 section {
   width: 20.6em;
   float: left;
