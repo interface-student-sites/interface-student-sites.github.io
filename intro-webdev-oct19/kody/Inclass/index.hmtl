@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="css/style.css" />
 
 <link rel="shortcut icon" href="img" type="image/x-icon">
-<link rel="icon" href="img/faicon.ico" type="image/x-icon">
+<link rel="icon" href="img/favicon.ico" type="image/x-icon">
 
 </head>
 <body>
@@ -30,7 +30,15 @@
 <div id="left-content">
 <p> This is some text</p>
 <p> This is more text</p>
+
 </div>
+
+<div id="right-content">
+<img src="" /><br/>
+<img src="" /><br />
+<a href=""><img src="" /><a/><br />
+</div>
+
 
 
 <section>
