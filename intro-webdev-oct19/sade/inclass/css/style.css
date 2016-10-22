@@ -23,24 +23,24 @@ nav{
   width:120em;
   float:right;
   padding:5em;
-  
+}
   section {
        width:20.6em;
          float:left;
     padding:1em;
-    
+}
     #left-content {
-      width: 10 em;
+      width: 10em;
             float: left;
     }
     #right-content img{
-      width: 9.6 em; 
+      width: 9.6em; 
         float:right;
     }
     #right-content img{
       height:10em;
       width:10em;
-      boarder-radius:10em;
+      border-radius:10em;
     }
     footer {
       background:blue;
@@ -48,16 +48,19 @@ nav{
       clear:both;
       text-align:center
         padding: 5px;
+}
       footer a{
         
-      }
-      texxt decoration: none;
+   
+      text-decoration: none;
       color:#cccc;
+}
       
-      )  footer a: hover
-        text decoration: underline;
+      footer a:hover
+{
+        text-decoration: underline;
     }
-    footer # social(
-    height: 1em 
-      width;les;
+footer #social{
+    height: 1em; 
+      width:1em;
   }
