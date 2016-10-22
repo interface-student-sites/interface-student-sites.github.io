@@ -7,10 +7,22 @@
 <link rel="stylesheet" href="css/style.css" />
 
 <link rel="shortcut icon" href="img" type="image/x-icon">
-<link rel="icon" href="img" type="image/x-icon">
+<link rel="icon" href="img/faicon.ico" type="image/x-icon">
 
 </head>
 <body>
+
+<header>
+<h1>Stay Classy</h1>
+<p id="pink>Here are the reasons why</p>
+
+</header>
+
+<nav></nav>
+
+<section></section>
+
+<footer></footer>
 
 
 
