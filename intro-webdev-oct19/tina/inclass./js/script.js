@@ -1,5 +1,5 @@
 $(document).ready(function () {
-$('button').clinck(function () {
+$('button').click(function () {
 $('img').toggle();
 });
 
