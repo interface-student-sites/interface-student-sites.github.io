@@ -32,3 +32,13 @@ section {
   padding: 1em; 
 }
 
+#left-content {
+  width:10em; 
+  float:left; 
+}
+
+#right-content {
+  width:9.6em; 
+  float:right; 
+}
+
