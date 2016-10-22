@@ -35,15 +35,9 @@ a {
 a:hover {
 	color: yellow;
 }
-/*
 img {
 	border-radius: 100px;
 	height: 200px;
 	width: 200px;
 }
-*/
-img {
-  border-radius:10em;
-  height:10em;
-  width:10em;
-}
+
