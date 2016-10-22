@@ -8,6 +8,15 @@ header {
   text-align: center;
   margin:10px;
 }
-nav {
-  
+#orange {
+  color: red;
+  font-size: 2 em;
+}
+nav{
+  line-height: 3.2 em;
+  background:#8080f0;
+  height:37.5 em;
+  width:7.5 em;
+  float:right;
+  padding:0.32 em;
 }
