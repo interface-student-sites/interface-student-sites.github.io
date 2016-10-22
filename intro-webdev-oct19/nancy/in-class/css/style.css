@@ -47,3 +47,11 @@ section {
   width:10em; 
   border-radius:10em;
 }
+
+footer { 
+  background:blue; 
+  color:white; 
+  clear:both; 
+  text-align:center; 
+  padding:5px; 
+}
