@@ -3,9 +3,6 @@ selector {
   property:value;
   }
 */
-body {
- padding: 0; 
-}
 
 header {
   background: #334748;
@@ -61,8 +58,7 @@ section {
 }
 
 footer {
-  border-top: 3px solid #666666;
-  background: #dddddd;
+  background: #666666;
   color: #334748;
   clear: both;
   text-align: center;
