@@ -61,7 +61,8 @@ section {
 }
 
 footer {
-  border-top: 6px solid #666666;
+  border-top: 3px solid #666666;
+  background: #dddddd;
   color: #334748;
   clear: both;
   text-align: center;
