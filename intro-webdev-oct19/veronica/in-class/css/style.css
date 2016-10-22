@@ -43,4 +43,19 @@ height:10em;
   
 }
 
+footer{
+background:pink;
+  color:white;
+  clear:both;
+  text-align:center;
+  padding:0.5 em;
+}
+footer a {
+text-decoration: none;
+  color:#ccc;
+}
+footer a:hover{
+text-decoration: underline;
+}
+}
   
