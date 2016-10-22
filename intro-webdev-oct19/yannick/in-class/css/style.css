@@ -10,3 +10,18 @@ header {
   text-align:center;
   padding:10px;
 }
+
+#pink {
+  color: red;
+  font-size: 2em;
+  font-style: italic;
+}
+nav {
+  line-height:50px;
+  background:#cccccc;
+  height:600px;
+  width:120px;
+  float:right;
+  padding:5px;
+}
+  
