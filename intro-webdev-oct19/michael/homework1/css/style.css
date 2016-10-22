@@ -31,12 +31,12 @@ footer {
   }
   
 a {
-  color: yellow;
+  color: #00ddeb;
   text-decoration: none;
   }
   
 a:hover {
-  color: white;
+  color: yellow;
   }
   
 img {
