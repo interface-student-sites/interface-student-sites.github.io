@@ -13,10 +13,17 @@ header {
 
 #highlight {
   color: #00ddeb;  
+  font-style: italic;
+  font-size: 2em;
 }
 
 nav {
-  
+  line-height: 3em;
+  background: #b6baa3;
+  height: 37.5em;
+  width: 7.5em;
+  float: left;
+  padding: .8em;
 }
 
 section {
