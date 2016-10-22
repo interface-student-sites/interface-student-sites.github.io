@@ -1,1 +1,1 @@
-homework assignment due friday night
+homework assignment 1 due friday night
