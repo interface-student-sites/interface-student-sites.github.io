@@ -52,7 +52,7 @@ background:pink;
 }
 footer a {
 text-decoration: none;
-  color:#ccc;
+  color:gray;
 }
 footer a:hover{
 text-decoration:underline;
