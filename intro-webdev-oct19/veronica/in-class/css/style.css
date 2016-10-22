@@ -2,3 +2,9 @@
 selector {
 property:value;
 */
+header {
+  background: #F08080;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
