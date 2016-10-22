@@ -21,10 +21,21 @@
 </header>
 
 <nav>
-<a href="videos.html">Videos</a>
+<a href="videos.html">Videos</a><br />
+<a href="news.html">News</a><br />
+
+
 </nav>
 
-<section></section>
+<div id="left-content">
+<p> This is some text</p>
+<p> This is more text</p>
+</div>
+
+
+<section>
+  
+</section>
 
 <footer></footer>
 
