@@ -11,3 +11,53 @@ header {
   text-align: center;
   margin:10px;
 }
+#pink{
+  color: red;
+  font-size: 2em;
+  font-style: italian; 
+}
+nav{ 
+  line-height: 50em;
+  background: #cccccc;
+  height:600em;
+  width:120em;
+  float:right;
+  padding:5em;
+  
+  section {
+       width:20.6em;
+         float:left;
+    padding:1em;
+    
+    #left-content {
+      width: 10 em;
+            float: left;
+    }
+    #right-content img{
+      width: 9.6 em; 
+        float:right;
+    }
+    #right-content img{
+      height:10em;
+      width:10em;
+      boarder-radius:10em;
+    }
+    footer {
+      background:blue;
+      color: white;
+      clear:both;
+      text-align:center
+        padding: 5px;
+      footer a{
+        
+      }
+      texxt decoration: none;
+      color:#cccc;
+      
+      )  footer a: hover
+        text decoration: underline;
+    }
+    footer # social(
+    height: 1em 
+      width;les;
+  }
