@@ -5,5 +5,6 @@ $(this).hide();
 
 });
 
-
+$('header").css("backgroud-color", "red");
+  });
 });
