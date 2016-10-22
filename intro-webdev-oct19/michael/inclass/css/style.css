@@ -15,7 +15,7 @@ header {
 }
 
 #highlight {
-  color: #dad8c9;  
+  color: #fffc00;  
   font-style: italic;
   font-size: 2em;
 }
@@ -61,7 +61,7 @@ footer {
 
 footer a {
   text-decoration: none;
-  color: #dad8c9;
+  color: #fffc00;
 }
 
 footer a:hover {
