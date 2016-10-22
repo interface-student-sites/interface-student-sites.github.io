@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
-$('button').click(function(){
-$('img').toggle();
+$('img').click(function(){
+$('this').hide();
 
 });
 
