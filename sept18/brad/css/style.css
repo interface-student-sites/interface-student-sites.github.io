@@ -29,7 +29,7 @@ body {
 .btn-primary:active,
 .btn-primary:visited,
 .btn-primary:focus {
-    background-color: maroon;
+    background-color: 4f160a;
     border-color: black;
 }
 
