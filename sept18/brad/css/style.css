@@ -8,6 +8,9 @@ property: value;
 h1 {
   color; maroon;
 }
+p {
+  font-size: 18px;
+}
 body {
   padding-bottom: 40px;
   color: #4f160a;
