@@ -18,10 +18,10 @@ body {
   font family: "Homemade Apple";
 }
 
-.navbar-default .navbar-fnt {
+.navbar-wrapper .navbar-fnt {
     color: white;
 }
-.navbar-default .navbar-backgrnd {
+.navbar-wrapper .navbar-backgrnd {
     color: maroon;
 }
 
