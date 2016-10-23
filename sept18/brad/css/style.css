@@ -24,6 +24,9 @@ body {
 .navbar-wrapper .navbar-backgrnd {
     color: maroon;
 }
+button {
+    color: maroon;
+}
 
 
 /* CUSTOMIZE THE NAVBAR
@@ -43,13 +46,16 @@ body {
 .navbar-wrapper > .container {
   padding-right: 0;
   padding-left: 0;
+  color: maroon;
 }
 .navbar-wrapper .navbar {
   padding-right: 15px;
   padding-left: 15px;
+  color: maroon;
 }
 .navbar-wrapper .navbar .container {
   width: auto;
+  color: maroon;
 }
 
 
