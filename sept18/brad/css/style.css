@@ -6,12 +6,12 @@ property: value;
 /* Padding below the footer and lighter body text */
 
 h1 {
-  color: maroon;
+  color: Black;
   font-size: 48px;
 }
 p {
-  font-size: 24px;
-  color: maroon;
+  font-size: 18px;
+  color: black;
 }
 body {
   padding-bottom: 40px;
