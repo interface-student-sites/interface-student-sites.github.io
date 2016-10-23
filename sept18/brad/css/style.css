@@ -18,7 +18,7 @@ body {
 }
 
 navbar-default{
-  color; #4f160a;
+  color; maroon;
 }
 
 
@@ -32,7 +32,7 @@ navbar-default{
   right: 0;
   left: 0;
   z-index: 20;
-  color: #4f160a;
+  color: maroon;
 }
 
 /* Flip around the padding for proper display in narrow viewports */
@@ -56,6 +56,7 @@ navbar-default{
 .carousel {
   height: 500px;
   margin-bottom: 60px;
+  color: maroon;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
