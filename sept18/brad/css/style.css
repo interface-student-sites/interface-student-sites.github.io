@@ -5,6 +5,9 @@ property: value;
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
+h1 {
+  color; maroon;
+}
 body {
   padding-bottom: 40px;
   color: #4f160a;
