@@ -24,8 +24,13 @@ body {
 .navbar-wrapper .navbar-backgrnd {
     color: maroon;
 }
-btn {
-    color: maroon;
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: maroon;
+    border-color: black;
 }
 
 
