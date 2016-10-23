@@ -18,20 +18,6 @@ body {
   font family: "Homemade Apple";
 }
 
-.navbar-wrapper .navbar-fnt {
-    color: white;
-}
-.navbar-wrapper .navbar-backgrnd {
-    color: maroon;
-}
-.btn-primary,
-.btn-primary:hover,
-.btn-primary:active,
-.btn-primary:visited,
-.btn-primary:focus {
-    background-color: #eee';
-    border-color: black;
-}
 
 
 /* CUSTOMIZE THE NAVBAR
