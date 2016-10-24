@@ -69,7 +69,7 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 400px;
+  height: 500px;
   
 }
 .carousel-inner > .item > img {
