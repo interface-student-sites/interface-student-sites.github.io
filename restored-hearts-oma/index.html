@@ -312,8 +312,23 @@
 </section>
     <script>
 	$(document).ready(function(){
-    // Activate Carousel
-    $("#carousel-rho").carousel("pause");
+    
+// Enable Carousel Indicators
+    $(".first-slide").click(function(){
+        $("#carousel-rho").carousel(0);
+    });
+    $(".second-slide").click(function(){
+        $("#carousel-rho").carousel(1);
+    });
+    $(".third-slide").click(function(){
+        $("#carousel-rho").carousel(2);
+    });
+    $(".fourth-slide").click(function(){
+        $("#carousel-rho").carousel(3);
+    });
+    $(".fifth-slide").click(function(){
+        $("#carousel-rho").carousel(4);
+    });
 	});
 
 	</script>
