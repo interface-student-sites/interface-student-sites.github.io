@@ -9,6 +9,10 @@ section {
  text-align: center;
 }
 
+#intro {
+ background-color: grey; 
+}
+
 #about {
  background-color: blue; 
 }
