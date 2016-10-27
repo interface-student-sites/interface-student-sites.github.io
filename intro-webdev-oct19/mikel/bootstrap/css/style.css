@@ -6,11 +6,16 @@ section {
   height: 31.25em;
   padding-top: 9.374em;
   text-align: center;
-  }*/
-#intro {
-  background: gray;
+  }
+
+intro {
+  background: red;
 }
 
+
+navbar-default {
+  background: blue;
+}
 /*
 section {
   height: 500px;
