@@ -3,8 +3,9 @@ body {
   height: 100%;
 }
 
-navbar-default {
-  background-color: pink
+nav {
+  background-color: pink;
+  font: red;
 
 section {
   height: 31.25em;
