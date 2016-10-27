@@ -18,10 +18,9 @@ section {
     font-family: verdana;
     color: red;
 }
-/*
-section {
-  height: 500px;
-  padding-top: 150px;
-  text-align: center;
-  / add an image or background color /
-  }*/
+
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: red;
+}
