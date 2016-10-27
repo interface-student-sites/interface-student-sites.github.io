@@ -1,1 +1,23 @@
-style
+body {
+  width: 100%;
+  height: 100%;
+}
+
+section {
+ height: 31.25em;
+ padding-top: 9.375em;
+ text-align: center;
+ /* add image or background color*/
+}
+
+.about-section {
+ background-color: blue; 
+}
+
+.portfolio-section {
+ background-color: orange; 
+}
+
+.contact-section {
+ background-color: green; 
+}
