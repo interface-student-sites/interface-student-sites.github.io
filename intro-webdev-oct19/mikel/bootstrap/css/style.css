@@ -11,14 +11,12 @@ section {
 #intro {
   background: red;
 }
-
 .navbar-default {
     background-color: green;
     border-color: black;
     font-family: verdana;
     color: red;
 }
-
 .navbar-default .navbar-nav>li>a {
     padding-top: 15px;
     padding-bottom: 15px;
