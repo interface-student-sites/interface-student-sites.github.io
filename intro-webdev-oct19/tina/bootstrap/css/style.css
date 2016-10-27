@@ -10,17 +10,17 @@ section {
 }
 
 #about {
-  background:red;
+  background:#BE60FF;
   /*at this line, you can add an image or a background color */
 }
 
 #intro {
-  background:pink;
+  background:#8557E8;
   /*at this line, you can add an image or a background color */
 }
 
 #portfolio {
-  background:purple;
+  background:#60ADFF;
   /*at this line, you can add an image or a background color */
 }
 
@@ -31,7 +31,7 @@ section {
 
 
 .navbar {    
-  background-color: yellow;
+  background-color: 804000;
   color: red;
 }
 
