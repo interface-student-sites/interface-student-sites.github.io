@@ -15,8 +15,11 @@ section {
 }
 
 #intro {
-  background-image: 
-  /*at this line, you can add an image or a background color */
+  background-image: img {  
+    border-radius: 100px;  
+    height: 300px;  
+    width: 300px;}
+  
 }
 
 #portfolio {
