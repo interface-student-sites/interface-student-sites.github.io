@@ -3,31 +3,24 @@ body {
   height:100%;
 }
 
-.intro-section{
-    height:31.25em;
-  padding-top: 9.375em;
-  text-align: center;
-  background: navy;
-  
-}
-  
-.about-section {
+section {
   height:31.25em;
   padding-top: 9.375em;
   text-align: center;
-  /*at this line, you can add an image or a background color*/
 }
-  
-.portfolio-section{
-    height:31.25em;
-  padding-top: 9.375em;
-  text-align: center;
+
+#intro {
+  background: navy;
+}
+
+#about {
   background: grey;
 }
 
-.contact-section{
-    height:31.25em;
-  padding-top: 9.375em;
-  text-align: center;
-  background: grey;
+#portfolio {
+  background:#5DADE2;
+}
+
+#contact {
+  background:grey;
 }
