@@ -16,9 +16,9 @@ section {
 
 #intro {
   background-image: img {  
-    border-radius: 100px;  
-    height: 300px;  
-    width: 300px;}
+    border-radius: 6.25em;  
+    height: 18.75em;  
+    width: 18.75}
   
 }
 
