@@ -15,5 +15,22 @@ section {
 
 #portfolio{
   background: pink;
+}
+
+#about {
+  background: red;
+}
+
+#contact{
+  background: yellow;
+}
+
+.navbar-default{
+  background: orange;
+}
+
+
+
+  
   
 
