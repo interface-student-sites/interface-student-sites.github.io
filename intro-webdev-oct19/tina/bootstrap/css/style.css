@@ -3,6 +3,9 @@ body {
   height: 100%;
 }
 
+navbar-default {
+  background-color: pink
+
 section {
   height: 31.25em;
   padding-top:9.375em;
