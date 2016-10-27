@@ -10,19 +10,19 @@ section {
 }
 
 #intro {
- background-color: grey; 
+ background-color: #FFF; 
 }
 
 #about {
- background-color: blue; 
+ background-color: #CAEBF2; 
 }
 
 #portfolio {
- background-color: orange; 
+ background-color: #FF3B3F; 
 }
 
 #contact {
- background-color: green; 
+ background-color: #A9A9A9; 
 }
 
 .navbar {
