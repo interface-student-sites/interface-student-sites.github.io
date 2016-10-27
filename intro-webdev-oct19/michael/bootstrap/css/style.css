@@ -34,11 +34,14 @@ section {
 
 }
 
-.navbar a{
+.navbar a {
   color: #A9A9A9;  
 }
 
+.navbar a:hover {
+  color: #000;  
+}
+
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    color: #fff;
     background: #CAEBF2;
 }
