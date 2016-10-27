@@ -3,35 +3,24 @@ body {
     height: 100%;
 }
 
-.intro-section {
-   height: 31.25em;
-    padding-top: 9.375em;
-    text-align: center;
-    background:blue;
-    /*at this line, you can add an image or a background color */
-}
-
-
-.about-section {
+section {
     height: 31.25em;
     padding-top: 9.375em;
-    text-align: center;
-    background:red;
-    /*at this line, you can add an image or a background color */
+    text-align: center; 
 }
 
-.portfolio-section {
-    height: 31.25em;
-    padding-top: 9.375em;
-    text-align: center;
-    background:red;
-    /*at this line, you can add an image or a background color */
+#intro {
+    background: red;
 }
 
-.contact-section {
-    height: 31.25em;
-    padding-top: 9.375em;
-    text-align: center;
-    background:red;
-    /*at this line, you can add an image or a background color */
+#about {
+    background: blue;
+}
+
+#portfolio {
+    background: pink;
+}
+
+#contact {
+    background: yellow;
 }
