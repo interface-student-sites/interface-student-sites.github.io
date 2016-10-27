@@ -24,3 +24,12 @@ section {
 #contact {
  background-color: green; 
 }
+
+.navbar-default {
+  background-color: slategray;
+  color: #fff;
+}
+
+.navbar-default:hover {
+  color: orange;
+}
