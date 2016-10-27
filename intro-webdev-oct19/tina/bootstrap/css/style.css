@@ -11,7 +11,7 @@ section {
 }
 
 #intro {
-  background-image: ;
+  background-image: <img src="img/20160709_215526.jpg"/>;
   background-size:cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -20,31 +20,21 @@ section {
 
 #about {
   background:#BE60FF;
-  /*at this line, you can add an image or a background color */
-}
-
-#intro {
-  background-image: img {  
-    border-radius: 6.25em;  
-    height: 18.75em;  
-    width: 18.75}
-  
+  color: #FFF;
 }
 
 #portfolio {
   background:#60ADFF;
-  /*at this line, you can add an image or a background color */
+  color: #FFF;
 }
 
 #contact {
   background:#5FA0E8;
-  /*at this line, you can add an image or a background color */
 }
-
 
 .navbar {    
   background-color: #DAD2FF;
-  color: red;
+  color: slategray;
 }
 
 .navbar-default{
@@ -58,8 +48,15 @@ section {
   color:blue;
 }
 
-.carousel-inner > .item > img,  
+.navbar-default.navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover{
+  background: white;
+}
 
-.carousel-inner > .item > a > img {      
-  width: 70%;      margin: auto;  
+#about-image {
+  background-image: <img src="img/20160709_215526.jpg"/>;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: white;
+  height: 12.5em;
 }
