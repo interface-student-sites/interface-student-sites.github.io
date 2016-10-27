@@ -3,6 +3,13 @@ body {
   Height: 100%; 
 } 
 
+section { 
+   height: 31.25em; 
+  padding-top: 9.375em; 
+  text-align: center; 
+
+}
+  
 .intro-section {
   height: 31.25em; 
   padding-top: 9.375em; 
@@ -11,6 +18,21 @@ body {
   /*at this line, you can add an image or a background color */ 
 }
 
+#intro { 
+  background: red; 
+}
+
+#about { 
+  background: yellow; 
+}
+
+#portofolio {
+  background: orange;
+}
+
+#contact { 
+  background: blue; 
+}
 
 
 .about-section {
