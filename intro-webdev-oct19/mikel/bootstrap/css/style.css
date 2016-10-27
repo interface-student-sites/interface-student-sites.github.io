@@ -15,6 +15,7 @@ section {
 .navbar-default {
     background-color: green;
     border-color: black;
+    font-family: verdana;
     color: red;
 }
 /*
