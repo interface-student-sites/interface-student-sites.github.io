@@ -25,8 +25,20 @@ section {
  background-color: green; 
 }
 
-.navbar-default {
-  background-color: slategray;
-  color: white;
+.navbar {
+  background-color: #EFEFEF;
+  color: #A9A9A9;  
 }
 
+.navbar-default {
+
+}
+
+.navbar a{
+  color: #A9A9A9;  
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #fff;
+    background: #CAEBF2;
+}
