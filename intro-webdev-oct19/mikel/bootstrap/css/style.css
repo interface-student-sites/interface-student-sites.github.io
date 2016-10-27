@@ -19,7 +19,7 @@ section {
     color: red;
 }
 
-.navbar-nav>li>a {
+.navbar-default .navbar-nav>li>a {
     padding-top: 15px;
     padding-bottom: 15px;
     color: red;
