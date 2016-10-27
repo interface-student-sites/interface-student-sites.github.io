@@ -3,14 +3,6 @@ body {
   height: 100%;
 }
 
-navbar {
-  background-color: #804000;
-  font-family: "Raleway;
-  font-size: 14px;
-  line-height: 1.4285;
-  font-color: #333;
-}
-
 section {
   height: 31.25em;
   padding-top:9.375em;
@@ -35,4 +27,13 @@ section {
 #contact {
   background:yellow;
   /*at this line, you can add an image or a background color */
+}
+
+
+.navbar {    background-color: yellow;}
+
+.carousel-inner > .item > img,  
+
+.carousel-inner > .item > a > img {      
+  width: 70%;      margin: auto;  
 }
