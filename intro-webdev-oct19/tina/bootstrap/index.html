@@ -4,21 +4,19 @@
     <meta charset="uft-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>My Bootstrap Site</title>
+    <title>Tina's Site</title>
     
     <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    
-    <link rel="stylesheet" href="css/style.css"/>
-    
     <script src="js/script.js"></script>
-    
+    <link rel="stylesheet" href="css/style.css"/>
+   
   </head>
     
   <body id="top-page" data-spy="scroll" data-target=".navbar-fixed-top">
@@ -35,10 +33,13 @@
         <a class="page-scroll" href="#top-page"></a>
       </li>
       <li>
-      <a class="page-scroll" href="#portfolio">Portfolio</a>
+      <a class="page-scroll" href="#about">About</a>
       </li>
       <li>
-        <a class="page-scroll" href="#contact">Contact</a>
+        <a class="page-scroll" href="#portfolio">Portfolio</a>
+      </li>
+      <li>
+      <a class="page-scroll" href="contact">Contact</a>
       </li>
     </ul>
           </div>
@@ -46,39 +47,54 @@
       </nav>
     
     <!-- Intro Section -->
-    <section id="intro" class="intro-section">
+    <section id="intro">
+      <div class="container">
+        <div class="row">
       <div class="col-lg-12">
         <h1>My Webpage</h1>
-        <a class="btn page-scroll" href="#about">About Me</a>
-        <div>
-          <div>   
+        <!--Modal Button Trigger -->
+        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
+        <!-- My Modal -->
+        <div id="myModal" class="modal fade" role="dialog">
+          <div class="modal-dialog">
+            <!-- Modal Content -->
+            <div class="modal-content">
+                        <div class="modal-header">
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>
+                          <h4 class="modal-title">Modal Header</h4>
+              </div>
+              <div class="modal-body">
+                <p>add text in the modal.</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+        </div>
+          </div>   
           </div>
         </div>
       </div>
+      </div>
     </section>
-      <div class="container">
-        <div class="row">
-        </div>
-    </div>
-             <!--About Section -->
-    <section id="about" class="about-section">
+    <!-- About Section -->
+    <section id="about">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-          <h1>About Section</h1> 
+          <h1>About Section</h1>
+            <a class="btn btn-default page-scroll" href="#about">About Me</a>
             <div class="container">
               <div class="row">
-                <div class="col-sm-6">
-                <p>About text</p>
+                <div class="col-sm-4" id="about-image">
                 </div>
-                <div class="col-sm-6">
-                <p>More About text</p>
+                <div class="col-sm-8">
+                  <p>About text</p>
+                </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
     </section>
 
              <!--Portfolio Section -->
