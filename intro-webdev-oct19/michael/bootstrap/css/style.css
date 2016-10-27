@@ -11,8 +11,8 @@ section {
 }
 
 #intro {
- background-color: #FFF; 
  background-image: url("https://static.pexels.com/photos/132657/pexels-photo-132657.jpeg");
+ background-color: #FFF; 
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
