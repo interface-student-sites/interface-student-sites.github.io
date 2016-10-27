@@ -30,7 +30,10 @@ section {
 }
 
 
-.navbar {    background-color: yellow;}
+.navbar {    
+  background-color: yellow;
+  font-color: red;
+}
 
 .carousel-inner > .item > img,  
 
