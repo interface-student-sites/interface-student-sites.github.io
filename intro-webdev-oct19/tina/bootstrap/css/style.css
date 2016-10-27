@@ -35,6 +35,17 @@ section {
   color: red;
 }
 
+.navbar-default{
+}
+
+.navbar a {
+  color: green;
+}
+
+.navbar a:hover {
+  color:blue;
+}
+
 .carousel-inner > .item > img,  
 
 .carousel-inner > .item > a > img {      
