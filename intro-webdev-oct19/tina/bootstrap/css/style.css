@@ -4,9 +4,18 @@ body {
 }
 
 section {
+  color: white;
   height: 31.25em;
   padding-top: 9.375em;
   text-align: center;
+}
+
+#intro {
+  background-image: ;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #BE60FF;
 }
 
 #about {
