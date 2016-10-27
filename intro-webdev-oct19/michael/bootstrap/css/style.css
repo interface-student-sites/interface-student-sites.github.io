@@ -53,3 +53,11 @@ section {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
     background: #CAEBF2;
 }
+
+#about-image {
+ background-image: url("https://static.pexels.com/photos/5989/man-hand-car-wheels.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-color: #A9A9A9;   
+}
