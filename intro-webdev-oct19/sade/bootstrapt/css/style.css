@@ -1,18 +1,22 @@
 body {
-  width: 100%
-    height: 100% 
+  width: 100%;
+    height: 100%; 
 }
-.Intro-section {
+
+.intro-section {
   height: 31.25em;
   padding-top; 9.375em;
   text-align: center;
   background:red;
   /*at this line, you can add an image or a background color*/
+}
   
-  .about-section {
+
+.about-section {
   height: 31.25em;
   padding-top; 9.375em;
   text-align: center;
   background:red;
   /*at this line, you can add an image or a background color*/
+}
 
