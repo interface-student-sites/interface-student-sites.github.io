@@ -7,8 +7,11 @@ section {
  color: white;
  height: 31.25em;
  padding-top: 9.375em;
- margin-bottom: 6em;
  text-align: center;
+}
+
+.container {
+ padding-bottom: 5em;
 }
 
 #intro {
