@@ -28,8 +28,9 @@ section {
  color: #A9A9A9;  
 }
 
+/*  background-color: #FF3B3F; */
 #contact {
- background-color: #FF3B3F; 
+ background-color: slategray; 
 }
 
 .navbar {
