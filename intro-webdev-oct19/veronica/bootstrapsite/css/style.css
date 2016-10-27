@@ -13,9 +13,13 @@ body{
   text-align: center;
 }
 
- .contact-section {
+ .portfolio-section {
      height: 31.25em;
   padding-top: 9.375em;
   text-align: center;
 }
-   
+    .contact-section {
+     height: 31.25em;
+  padding-top: 9.375em;
+  text-align: center;
+}
