@@ -27,9 +27,6 @@ section {
 
 .navbar-default {
   background-color: slategray;
-  color: #fff;
+  color: white;
 }
 
-.navbar-default:hover {
-  color: orange;
-}
