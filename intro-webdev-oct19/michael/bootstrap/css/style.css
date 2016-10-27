@@ -7,17 +7,16 @@ section {
  height: 31.25em;
  padding-top: 9.375em;
  text-align: center;
- /* add image or background color*/
 }
 
-.about-section {
+#about {
  background-color: blue; 
 }
 
-.portfolio-section {
+#portfolio {
  background-color: orange; 
 }
 
-.contact-section {
+#contact {
  background-color: green; 
 }
