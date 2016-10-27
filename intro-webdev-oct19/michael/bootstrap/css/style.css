@@ -15,19 +15,19 @@ section {
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
- background-color: #FFF; 
+ background-color: #A9A9A9; 
 }
 
 #about {
- background-color: #CAEBF2; 
+ background-color: #FFF; 
 }
 
 #portfolio {
- background-color: #FF3B3F; 
+ background-color: #CAEBF2; 
 }
 
 #contact {
- background-color: #A9A9A9; 
+ background-color: #FF3B3F; 
 }
 
 .navbar {
