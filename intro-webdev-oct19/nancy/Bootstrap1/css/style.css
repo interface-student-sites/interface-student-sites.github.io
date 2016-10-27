@@ -3,11 +3,40 @@ body {
   Height: 100%; 
 } 
 
+
+.intro-section {
+  height: 31.25em; 
+  padding-top: 9.375em; 
+  text-align: center; 
+  background:blue; 
+  /*at this line, you can add an image or a bacground color */ 
+}
+
+
+
 .about-section {
   height: 31.25em; 
   padding-top: 9.375em; 
   text-align: center; 
   background:red; 
+  /*at this line, you can add an image or a bacground color */ 
+}
+
+
+.porfolio-section {
+  height: 31.25em; 
+  padding-top: 9.375em; 
+  text-align: center; 
+  background:green; 
+  /*at this line, you can add an image or a bacground color */ 
+}
+
+
+.contact-section {
+  height: 31.25em; 
+  padding-top: 9.375em; 
+  text-align: center; 
+  background:aqua; 
   /*at this line, you can add an image or a bacground color */ 
 }
 
