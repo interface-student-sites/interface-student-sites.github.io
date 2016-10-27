@@ -9,22 +9,22 @@ body {
   text-align: center;
 }
 
-#about-section {
+#about {
   background:red;
   /*at this line, you can add an image or a background color */
 }
 
-#intro-section {
+#intro {
   background:blue;
   /*at this line, you can add an image or a background color */
 }
 
-#portfolio-section {
+#portfolio {
   background:purple;
   /*at this line, you can add an image or a background color */
 }
 
-#contact-section {
+#contact {
   background:yellow;
   /*at this line, you can add an image or a background color */
 }
