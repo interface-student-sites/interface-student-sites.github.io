@@ -12,9 +12,9 @@ section {
   background: red;
 }
 
-
 .navbar-default {
-  background: blue;
+    background-color: blue;
+    border-color: #e7e7e7;
 }
 /*
 section {
