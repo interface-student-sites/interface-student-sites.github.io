@@ -10,6 +10,10 @@ section {
  text-align: center;
 }
 
+h2 {
+ background-color: ora
+}
+
 #intro {
  background-image: url("https://static.pexels.com/photos/132657/pexels-photo-132657.jpeg");
  background-size: cover;
@@ -54,7 +58,8 @@ section {
 } 
 
 .modal-header {
-  color: #A9A9A9;
+  background-color: #FF3B3F;
+  color: #FFF;
 }
 
 .modal-body {
@@ -72,5 +77,6 @@ section {
  background-repeat: no-repeat;
  background-position: center;
  background-color: #A9A9A9;   
- height: 12.5em;
+ height: 18.75em;
+ margin: 2em;
 }
