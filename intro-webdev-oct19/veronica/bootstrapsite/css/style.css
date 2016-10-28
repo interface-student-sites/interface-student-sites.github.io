@@ -27,8 +27,11 @@ section {
 
 .navbar-default{
   background: orange;
+  
 }
-
+li a:hover {
+    background-color: #111;
+}
 
 
   
