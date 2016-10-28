@@ -23,14 +23,8 @@ section {
 
 #about { 
   background: yellow; 
-  */ 
-img{
-  border-radius:10em;
-  height:10em; 
-  width:10em; 
-}
-  
-}
+} 
+
 #portofolio {
   background: orange;
 }
