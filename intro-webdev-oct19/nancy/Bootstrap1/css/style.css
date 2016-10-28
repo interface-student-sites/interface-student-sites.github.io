@@ -1,7 +1,7 @@
 body { 
   width: 100%;
   Height: 100%; 
-  Color: Aqua; 
+  Color: black; 
 } 
   .active {
     background-color: #4CAF50;
@@ -28,8 +28,7 @@ section {
 }
 
 #about { 
-  background: yellow; 
-  color: black; 
+  background: yellow;
 } 
 
 #portofolio {
