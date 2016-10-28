@@ -71,12 +71,16 @@ h2 {
   margin: 2em;
 }
 
+#about img {
+ height: 12.5em;
+ margin: 2em;
+}
+
 #about-image {
  background-image: url("https://static.pexels.com/photos/5989/man-hand-car-wheels.jpg");
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
  background-color: #A9A9A9;   
- height: 18.75em;
- margin: 2em;
+
 }
