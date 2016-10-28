@@ -38,8 +38,9 @@ section {
   color: #A9A9A9;  
 }
 
+/*  */
 .navbar-default {
-
+  background-color: #EFEFEF;
 }
 
 .navbar a {
@@ -50,9 +51,18 @@ section {
   color: #000;  
 }
 
+.navbar-default .navbar-nav>li>a {
+  color: red;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: purple;
+}
+
+/*
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
     background: #CAEBF2;
-}
+} */
 
 #about-image {
  background-image: url("https://static.pexels.com/photos/5989/man-hand-car-wheels.jpg");
