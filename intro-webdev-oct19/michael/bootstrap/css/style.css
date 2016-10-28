@@ -37,25 +37,16 @@ section {
   color: #A9A9A9;  
 }
 
-/*  */
 .navbar-default {
   background-color: #EFEFEF;
 }
 
-.navbar a {
-  color: #A9A9A9;  
-}
-
-.navbar a:hover {
-  color: #000;  
-}
-
 .navbar-default .navbar-nav>li>a {
-  color: red;
+  color: #A9A9A9;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-  color: green;
+  color: #000;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
