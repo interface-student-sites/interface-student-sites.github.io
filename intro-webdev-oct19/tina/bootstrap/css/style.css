@@ -5,13 +5,20 @@ body {
 
 section {
   color: white;
-  height: 31.25em;
   padding-top: 9.375em;
+  padding-bottom: 6em;
   text-align: center;
 }
 
+h2 {
+  color: white;
+  font-size: 1em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 #intro {
-  background-image: <img src="img/"robnc.jpg"/>;
+  background-image: img src="img/robnc.jpg";
   background-size:cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -33,19 +40,19 @@ section {
 }
 
 .navbar {    
-  background-color: #DAD2FF;
   color: slategray;
 }
 
 .navbar-default{
+  background: red;
 }
 
-.navbar a {
+.navbar-default.navbar-nav>li>a {
   color: green;
 }
 
-.navbar a:hover {
-  color:blue;
+  .nav-bar-default .navbar-nav>li>a:hover {
+    color: black;
 }
 
 .navbar-default.navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover{
@@ -58,7 +65,16 @@ section {
   background-repeat: no-repeat;
   background-position: center;
   background-color: white;
-  height: 12.5em;
+  height: 18.75em;
+}
+
+.modal-header {
+  background-color: red;
+  color: #fff;
+}
+
+.modal-body {
+  color: yellow;
 }
 
 .modal-body img {  
