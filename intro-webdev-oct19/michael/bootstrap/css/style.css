@@ -37,8 +37,9 @@ h2 {
 }
 
 #about-info p{
-  font-size: 2em;
-  line-height: 1.5em;
+  font-size: 1em;
+  font-weight: light;
+  line-height: 1em;
 }
 
 #portfolio {
