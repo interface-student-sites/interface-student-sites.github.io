@@ -26,10 +26,7 @@ section {
 }
 
 #intro { 
-  background: red; 
-  body {
-    background-image: url("https://static.pexels.com/photos/90762/sunset-day-summer-sky-90762.jpeg");
-  }
+  background: skyblue; 
 }
 
 #about { 
