@@ -11,7 +11,10 @@ section {
 }
 
 h2 {
- background-color: ora
+ color: #FF3B3F;
+ font-size: 1em;
+ font-weight: bold;
+ text-transform: uppercase;
 }
 
 #intro {
