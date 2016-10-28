@@ -28,6 +28,17 @@ h2 {
 #about {
  background-color: #FFF; 
  color: #A9A9A9;  
+ text-align: left;
+}
+
+#about-info {
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+#about-info p{
+  font-size: 2em;
+  line-height: 1.5em;
 }
 
 #portfolio {
