@@ -53,6 +53,18 @@ section {
     background: #CAEBF2;
 } 
 
+.modal-header {
+  color: #A9A9A9;
+}
+
+.modal-body {
+  color: #A9A9A9;
+}
+
+#ace-modal {
+  height: 5em;
+}
+
 #about-image {
  background-image: url("https://static.pexels.com/photos/5989/man-hand-car-wheels.jpg");
  background-size: cover;
