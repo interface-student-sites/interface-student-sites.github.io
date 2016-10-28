@@ -3,6 +3,10 @@ body {
   Height: 100%; 
   Color: Aqua; 
 } 
+  .active {
+    background-color: #4CAF50;
+    color: white;
+}
 
 section { 
    height: 31.25em; 
