@@ -2,6 +2,7 @@ body {
   width: 100%;
   Height: 100%; 
   Color: black; 
+  text-align: left;
 } 
   .active {
     background-color: #4CAF50;
