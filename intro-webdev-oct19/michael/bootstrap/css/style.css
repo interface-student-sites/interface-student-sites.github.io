@@ -11,13 +11,17 @@ section {
 }
 
 h2 {
- background-color: #E37222;
- padding: .5em;
- border-radius: 1em;
- color: #FFF;
+ color: #E37222;
  font-size: 1em;
  font-weight: bold;
  text-transform: uppercase;
+}
+
+.highlight {
+ background-color: #E37222;
+ padding: .4em;
+ border-radius: 1em;
+ color: #FFF; 
 }
 
 #intro {
