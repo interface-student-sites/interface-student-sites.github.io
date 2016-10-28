@@ -17,11 +17,14 @@ h2 {
  text-transform: uppercase;
 }
 
-.highlight {
+.sub-heading {
  background-color: #E37222;
  padding: .4em;
  border-radius: 1em;
  color: #FFF; 
+ font-size: 1em;
+ font-weight: bold;
+ text-transform: uppercase;
 }
 
 #intro {
