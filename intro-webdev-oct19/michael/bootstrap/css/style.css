@@ -51,6 +51,13 @@ h2 {
 #contact {
  background-color: slategray; 
  color: #A9A9A9;
+ text-align: left;
+ width: 70%;
+}
+
+.contact {
+ color: #fff;
+ text-align: center;
 }
 
 .form-headings {
