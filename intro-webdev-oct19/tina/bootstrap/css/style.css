@@ -38,7 +38,7 @@ section {
   width: 12.5em;
 }
 
-#intro-section {
+.intro-section {
   background: #c61aff url("img src=img/robnc.jpg");
 }
 
