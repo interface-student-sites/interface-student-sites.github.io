@@ -91,15 +91,14 @@ p {
 /* --- SERVICES SECTION --- */
 #services {
  background-color: #CAEBF2; 
- color: #A9A9A9;  
 }
 
 #detail-services {
-  
+ padding: 1em;  
 }
 
 #detail-services > h2 {
- text-align: center;   
+ text-align: center;
 }
 
 #service-icons > img {
