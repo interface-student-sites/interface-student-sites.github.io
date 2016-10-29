@@ -35,7 +35,7 @@ section {
 
 /*Change the background to an image*/
 #intro.intro-section {
-    background: #c61aff url('../img/mykids.jpg')');
+    background: #c61aff url('../img/mykids.jpg');
 }
 
 #intro-modal {
