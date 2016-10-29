@@ -51,12 +51,12 @@ h2 {
 #contact {
  background-color: slategray; 
  color: #FFF;
- text-align: center;
+ text-align: left;
 }
 
 #contact-form {
  color: #A9A9A9;
- text-align: left;
+ text-align: center;
  width: 70%;
 }
 
