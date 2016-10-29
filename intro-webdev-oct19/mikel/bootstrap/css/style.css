@@ -23,10 +23,23 @@ section {
     padding-bottom: 15px;
     color: red;
 }
+/*
 #intro {
   background: white;
-  /*https://static.pexels.com/photos/1043/red-building-industry-bricks.jpg*/
+  https://static.pexels.com/photos/1043/red-building-industry-bricks.jpg
 }
+*/
+#intro {
+ background-image: url("https://static.pexels.com/photos/1043/red-building-industry-bricks.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-color: white; 
+}
+
+
+
+
 img {
   border-radius:10em;
   height:10em;
