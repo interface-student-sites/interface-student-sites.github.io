@@ -30,6 +30,12 @@ section {
  background-position: center;
  background-color: white; 
 }
+
+#intro img {
+  border-radius:10em;
+  height:10em;
+  width:15em; 
+}
 #about {
   background: #28283e;
 }
@@ -62,8 +68,10 @@ section {
 #contact {
   background: #ffefcc;
 }
+/*
 img {
   border-radius:10em;
   height:10em;
   width:15em;
 }
+*/
