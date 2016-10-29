@@ -7,9 +7,6 @@ section {
   padding-top: 9.374em;
   text-align: center;
   }
-#intro {
-  background: #28283e;
-}
 .navbar-default {
     background-color: #3366ff;
     border-color: black;
@@ -26,4 +23,9 @@ section {
     padding-bottom: 15px;
     color: red;
 }
-
+#intro {
+  background: white;
+}
+#about {
+  background: #28283e;
+}
