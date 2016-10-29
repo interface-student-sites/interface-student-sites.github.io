@@ -5,7 +5,7 @@ body {
 
 section {
  color: white;
- padding-top: 9.375em;
+ padding-top: 8em;
  padding-bottom: 6em;
  text-align: center;
 }
@@ -34,7 +34,7 @@ h2 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    background: #CAEBF2;
+    background: #E37222;
 } 
 
 /* --- INTRO SECTION --- */
