@@ -34,14 +34,12 @@ h2 {
 #about-info {
   padding-left: 3em;
   padding-right: 3em;
-  line-height: 1em;
-  font-weight: light;
 }
 
 #about-info p{
   font-size: 1em;
   font-weight: light;
-  line-height: 1em;
+  line-height: 2em;
 }
 
 #portfolio {
