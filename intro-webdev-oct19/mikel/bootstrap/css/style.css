@@ -58,13 +58,12 @@ section {
       width: 70%;
       margin: auto;
   }
-/*
+
 #portfolio-content img {
   height:25em;
-  width:25em;
+/*  width:25em;  */
   background-position: center;  
 }
-*/
 #contact {
   background: #ffefcc;
 }
