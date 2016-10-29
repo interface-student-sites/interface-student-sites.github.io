@@ -50,14 +50,14 @@ h2 {
 /*  background-color: #FF3B3F; */
 #contact {
  background-color: slategray; 
+ color: #FFF;
+ text-align: center;
+}
+
+#contact-form {
  color: #A9A9A9;
  text-align: left;
  width: 70%;
-}
-
-#contact-heading {
- color: #fff;
- text-align: center;
 }
 
 .form-headings {
