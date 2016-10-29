@@ -18,7 +18,7 @@ h2 {
 }
 
 #intro {
- background-image: url("https://static.pexels.com/photos/39613/training-barbell-muscles-hands-39613.jpeg");
+ background-image: url("https://static.pexels.com/photos/129881/pexels-photo-129881.jpeg");
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
@@ -87,7 +87,7 @@ h2 {
 }
 
 #about-image {
- background-image: url("img/13466016_10153726814035687_8952390155904911402_n.jpg");
+ background-image:"img/13466016_10153726814035687_8952390155904911402_n.jpg";
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
