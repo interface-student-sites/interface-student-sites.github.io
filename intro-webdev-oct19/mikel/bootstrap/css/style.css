@@ -7,6 +7,15 @@ section {
   padding-top: 4.374em;
   text-align: center;
   }
+.wrap a img {
+  width: 45px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.menu-link a:hover {
+  text-decoration: none;
+}
+
 .navbar-default {
     background-color: #ffffe6;
     border-color: black;
