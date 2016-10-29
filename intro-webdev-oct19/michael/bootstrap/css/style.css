@@ -34,7 +34,8 @@ h2 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    background: #E37222;
+    background: #CAEBF2;
+    color: #E37222;
 } 
 
 /* --- INTRO SECTION --- */
