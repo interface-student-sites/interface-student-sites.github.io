@@ -7,7 +7,7 @@ section {
   height: 40em;
   padding-top: 2em;
   text-align: center;
-  color: white;
+  color: brown;
 }
 
 #intro {
@@ -32,7 +32,7 @@ section {
 }
 
 .navbar-default{
-  background: gold;
+  background: silver;
   
 }
 li a:hover {
