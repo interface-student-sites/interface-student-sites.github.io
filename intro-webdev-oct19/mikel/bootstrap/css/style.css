@@ -37,9 +37,6 @@ section {
  background-color: white; 
 }
 
-
-
-
 img {
   border-radius:10em;
   height:10em;
@@ -47,4 +44,8 @@ img {
 }
 #about {
   background: #28283e;
+}
+#about-left {
+ background-image: url("https://static.pexels.com/photos/23971/pexels-photo-23971.jpg"); 
+ height: 20em;
 }
