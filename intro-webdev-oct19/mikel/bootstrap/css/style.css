@@ -12,10 +12,10 @@ section {
   background: red;
 }
 .navbar-default {
-    background-color: green;
+    background-color: #000066;
     border-color: black;
     font-family: verdana;
-    color: red;
+    color: white;
 }
 .navbar-default .navbar-nav>li>a {
     padding-top: 15px;
