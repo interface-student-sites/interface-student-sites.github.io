@@ -47,6 +47,11 @@ section {
 #about-right {
   background: #28283e;
 }
+carousel {
+  background: #333;
+  
+}
+
 #portfolio-content img {
   height:25em;
   width:25em;
