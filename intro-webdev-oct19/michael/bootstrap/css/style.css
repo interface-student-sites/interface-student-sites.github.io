@@ -110,7 +110,6 @@ h2 {
 }
 
 #contact-form {
- padding-left: 4em;
  color: #A9A9A9;
  width: 70%;
 }
@@ -120,7 +119,7 @@ h2 {
 } */
 
 .form-headings {
- width: 40%;
+ width: 45%;
  text-align: right;
  color: #FFF;
 }
@@ -132,7 +131,7 @@ h2 {
 input[type=text] {
     border: 2px solid #A9A9A9;
     border-radius: .5em;
-    display: inline;
+/*     display: inline; */
     text-align: left;
 }
 
