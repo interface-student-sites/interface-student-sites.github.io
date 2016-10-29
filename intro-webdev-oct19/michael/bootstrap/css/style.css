@@ -95,11 +95,14 @@ p {
 
 #detail-services {
  padding: 1em;  
- color: #A9A9A9; 
 }
 
 #detail-services > h2 {
  text-align: center;
+}
+
+#detail-services > p {
+ color: #A9A9A9; 
 }
 
 #service-icons > img {
