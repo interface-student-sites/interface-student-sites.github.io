@@ -120,12 +120,12 @@ h2 {
 }
 
 .form-headings {
- /* text-align: right; */
+ text-align: right;
  color: #FFF;
 }
 
 .form-input {
-/*  text-align: left; */
+ text-align: left;
 }
 
 input[type=text] {
