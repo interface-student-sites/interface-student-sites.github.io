@@ -125,7 +125,7 @@ h2 {
  padding-right: 1em;
  text-align: right;
  color: #FFF;
-/*  display: inline-block; */
+ display: inline-block; 
 }
 
 .input-layout {
