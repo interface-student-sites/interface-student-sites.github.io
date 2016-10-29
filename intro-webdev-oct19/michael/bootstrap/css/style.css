@@ -95,7 +95,9 @@ h2 {
 
 .carousel-inner > .item > img,
  .carousel-inner > .item > a > img {
-   width: 100%;
+   background-color: #CAEBF2;
+   height: 25em;
+   width: auto;
    margin: auto;
 }
 
