@@ -7,9 +7,9 @@ section {
   padding-top: 9.374em;
   text-align: center;
   }
-
+/*  background: #33334d;*/
 #intro {
-  background: #33334d;
+  background: blue;
 }
 .navbar-default {
     background-color: #000066;
