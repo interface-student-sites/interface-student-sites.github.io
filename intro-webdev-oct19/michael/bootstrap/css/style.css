@@ -115,9 +115,9 @@ h2 {
  width: 70%;
 }
 
-.form-blocks {
+/* .form-blocks {
  display: inline-block;
-}
+} */
 
 .form-headings {
  width: 40%;
@@ -125,13 +125,15 @@ h2 {
  color: #FFF;
 }
 
-.form-input {
+/* .form-input {
  text-align: left;
-}
+} */
 
 input[type=text] {
     border: 2px solid #A9A9A9;
     border-radius: .5em;
+    display: inline;
+    text-align: left;
 }
 
 textarea {
