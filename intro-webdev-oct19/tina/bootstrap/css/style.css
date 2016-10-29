@@ -39,7 +39,7 @@ section {
 }
 
 #intro {
-  background-image: url(img src="img/robnc.jpg");
+  background: url(img src="img/robnc.jpg");
 }
 
 #about-pic {
