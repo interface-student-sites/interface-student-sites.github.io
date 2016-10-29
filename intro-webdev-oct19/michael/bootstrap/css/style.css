@@ -88,8 +88,22 @@ p {
  height: 18.75em;
 }
 
-/* --- PORTFOLIO SECTION --- */
-#portfolio {
+/* --- WORKS SECTION --- */
+#services {
+ background-color: #E37222; 
+ color: #FFF;  
+}
+
+#detail-services {
+  
+}
+
+#service-icons {
+  
+}
+
+/* --- WORKS SECTION --- */
+#recent-work {
  background-color: #CAEBF2; 
  color: #A9A9A9;  
 }
