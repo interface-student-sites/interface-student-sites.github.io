@@ -115,7 +115,7 @@ h2 {
 }
 
  .form-blocks {
- display: inline-block;
+ display: block;
 } 
 
 .form-headings {
