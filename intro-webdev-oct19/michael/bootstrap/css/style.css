@@ -112,7 +112,6 @@ h2 {
 #contact-form {
  padding-left: 4em;
  color: #A9A9A9;
- text-align: left;
  width: 70%;
 }
 
@@ -131,12 +130,12 @@ h2 {
 
 input[type=text] {
     border: 2px solid #A9A9A9;
-    border-radius: 4px;
+    border-radius: .5em;
 }
 
 textarea {
     border: 2px solid #A9A9A9;
-    border-radius: 4px;
+    border-radius: .5em;
 }
 
 input[type=text]:focus {
@@ -147,6 +146,7 @@ input[type=button], input[type=reset] {
     background-color: #DDD;
     border: none;
     color: #A9A9A9;
+    border-radius: .5em;
     padding: 16px 32px;
     text-decoration: none;
     margin: 4px 2px;
@@ -157,6 +157,7 @@ input[type=submit] {
     background-color: #E37222;
     border: none;
     color: white;
+    border-radius: .5em;
     padding: 16px 32px;
     text-decoration: none;
     margin: 4px 2px;
