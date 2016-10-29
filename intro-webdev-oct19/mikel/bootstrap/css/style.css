@@ -59,4 +59,5 @@ img {
 #portfolio-content img {
   height:50em;
   width:50em;
+  background-position: center;  
 }
