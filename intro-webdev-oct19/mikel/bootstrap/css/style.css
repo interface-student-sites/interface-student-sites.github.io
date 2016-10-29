@@ -23,12 +23,6 @@ section {
     padding-bottom: 15px;
     color: red;
 }
-/*
-#intro {
-  background: white;
-  https://static.pexels.com/photos/1043/red-building-industry-bricks.jpg
-}
-*/
 #intro {
  background-image: url("https://static.pexels.com/photos/1043/red-building-industry-bricks.jpg");
  background-size: cover;
@@ -36,7 +30,6 @@ section {
  background-position: center;
  background-color: white; 
 }
-
 #about {
   background: #28283e;
 }
@@ -51,13 +44,19 @@ section {
 #about-left {
  background-color: #28283e; 
 }
-img {
-  border-radius:10em;
-  height:10em;
-  width:15em;
+#about-right {
+  background: #28283e;
 }
 #portfolio-content img {
   height:25em;
   width:25em;
   background-position: center;  
+}
+#content {
+  background: #ffd9b3;
+}
+img {
+  border-radius:10em;
+  height:10em;
+  width:15em;
 }
