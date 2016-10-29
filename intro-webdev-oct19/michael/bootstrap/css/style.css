@@ -111,26 +111,26 @@ h2 {
 
 #contact-form {
  color: #A9A9A9;
-/*  width: 70%; */
+ width: 90%;
  margin: auto;
 }
 
 .form-blocks {
- display: block;
- text-align: center;
+ clear: both;
+ padding: .5em;
 }  
 
 .form-headings {
- width: 50%; 
+ width: 7.25em; 
  padding-right: 1em;
  text-align: right;
  color: #FFF;
- display: inline-block;
+/*  display: inline-block; */
 }
 
-.form-input {
-  text-align: left; 
-  display: inline;
+.input-layout {
+  width: 15.625em;
+  float: left; 
 }  
 
 input[type=text] {
