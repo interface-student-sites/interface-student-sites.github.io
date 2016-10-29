@@ -127,10 +127,9 @@ h2 {
  display: inline; 
 }
 
-.form-input {
- width: 50%; 
+/* .form-input {
  text-align: left;
-} 
+}  */
 
 input[type=text] {
     border: 2px solid #A9A9A9;
