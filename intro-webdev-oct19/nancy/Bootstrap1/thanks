@@ -1,1 +1,11 @@
-text
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Thank you, for filling out my form!</title>
+        <script type="text/javascript" src="script.js"></script>
+             NOTE: type=“text/javascript” is not necessary.  
+    </head>
+    <body>
+        <div></div>
+    </body>
+</html>
