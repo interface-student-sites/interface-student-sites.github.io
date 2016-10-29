@@ -33,9 +33,11 @@ section {
       color: yellow;
 }
 
-.intro-pic {
-  background: url("img src=img/mykids.jpg");
+/*Change the background to an image*/
+#intro {
+    background: url('img src-img/mykids.jpg');
 }
+
 #intro-modal {
   height: 12.5em;
   width: 12.5em;
