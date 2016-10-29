@@ -115,9 +115,10 @@ h2 {
  margin: auto;
 }
 
-/*  .form-blocks {
+.form-blocks {
  display: block;
-}  */
+ text-align: center;
+}  
 
 .form-headings {
  width: 50%; 
@@ -128,7 +129,7 @@ h2 {
 }
 
 .form-input {
-/*  text-align: left; */
+  text-align: left; 
   display: inline;
 }  
 
