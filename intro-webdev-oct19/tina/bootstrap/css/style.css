@@ -34,7 +34,7 @@ section {
 }
 
 /*Change the background to an image*/
-#intro {
+#intro.intro-section {
     background: url('img/jude.jpg');
 }
 
