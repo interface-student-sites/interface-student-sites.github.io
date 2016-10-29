@@ -14,15 +14,15 @@ section {
 }
 
 #portfolio {
-  background: d24dff;
+  background: #d24dff;
 }
 
 #contact {
-  background: c61aff;
+  background: #c61aff;
 }
   
 .navbar-default {
-  background: red;
+  background: #c61aff;
 }
 
 .navbar-default .navbar-nav>li>a }
@@ -33,7 +33,7 @@ section {
       color: yellow;
 }
 
-.intro-modal {
+#intro-modal {
   height: 12.5em;
   width: 12.5em;
 }
