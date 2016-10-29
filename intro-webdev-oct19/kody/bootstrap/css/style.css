@@ -49,7 +49,7 @@ h2 {
 
 
 #contact {
- background-color: #c2e8ff; 
+ background-color: #12089d; 
 }
 
 .navbar {
@@ -57,28 +57,28 @@ h2 {
 }
 
 .navbar-default {
-  background-color: #c2e8ff;
+  background-color: #12089d;
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #c2e8ff;
+  color: #666666;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-  color:#c2e8ff;
+  color:#0d97ff;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    background: ##c2e8ff;
+    background: #c2e8ff;
 } 
 
 .modal-header {
-  background-color: #c2e8ff;
-  color: #c2e8ff;
+  background-color: #666666;
+  color: #666666;
 }
 
 .modal-body {
-  color: #c2e8ff;
+  color: #666666;
 }
 
 .modal-body img {
