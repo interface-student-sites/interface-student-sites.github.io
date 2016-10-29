@@ -49,5 +49,8 @@ section {
 	width: 12.5em;
 }
 
-
-
+/*increase the size of the contact section */
+#contact {
+	height: 47em;
+}
+	
