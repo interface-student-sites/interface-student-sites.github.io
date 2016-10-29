@@ -120,11 +120,11 @@ h2 {
 }  */
 
 .form-headings {
- width: 50%; 
+ width: 30%; 
  padding-right: 1em;
  text-align: left;
  color: #FFF;
-/*  display: inline;  */
+ display: inline; 
 }
 
 /* .form-input {
