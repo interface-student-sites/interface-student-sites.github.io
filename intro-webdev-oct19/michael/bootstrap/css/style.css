@@ -114,16 +114,16 @@ h2 {
  width: 70%;
 }
 
-/* .form-blocks {
+ .form-blocks {
  display: inline-block;
-} */
+} 
 
 .form-headings {
  width: 45%;
  padding-right: 1em;
  text-align: right;
  color: #FFF;
-/*  display: inline; */
+ display: inline; 
 }
 
 /* .form-input {
