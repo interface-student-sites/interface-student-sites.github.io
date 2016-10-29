@@ -17,7 +17,7 @@ section {
 
 
 #portfolio{
-  background: #C0C0C0;
+  background: #008080;
 }
 
 #about {
@@ -38,6 +38,7 @@ li a:hover {
 
 body {
     background-image: url("https://static.pexels.com/photos/134638/pexels-photo-134638.jpeg");
+  
 }
 
   
