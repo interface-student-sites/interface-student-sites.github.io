@@ -8,10 +8,10 @@ section {
   text-align: center;
   }
 .navbar-default {
-    background-color: #3366ff;
+    background-color: #ffffe6;
     border-color: black;
     font-family: verdana;
-    color: white;
+    color: black;
 }
 .navbar-default .navbar-nav>li>a {
     padding-top: 15px;
