@@ -47,11 +47,11 @@ section {
 #about-right {
   background: #28283e;
 }
-carousel {
-  background: #333;
-  
-}
-
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
 #portfolio-content img {
   height:25em;
   width:25em;
