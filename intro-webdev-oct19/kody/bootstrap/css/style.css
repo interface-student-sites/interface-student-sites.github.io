@@ -1,26 +1,97 @@
 body {
-  width:100%;
-  height:100%;
+  width: 100%;
+  height: 100%;
 }
 
 section {
-  height:31.25em;
-  padding-top: 9.375em;
-  text-align: center;
+ color: white;
+ padding-top: 9.375em;
+ padding-bottom: 6em;
+ text-align: center;
+}
+
+h2 {
+ color: grey;
+ font-size: 1em;
+ font-weight: bold;
+ text-transform: uppercase;
 }
 
 #intro {
-  background:navy;
+ background-image: url("https://static.pexels.com/photos/39613/training-barbell-muscles-hands-39613.jpeg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-color: 	#0d97ff; 
 }
 
 #about {
-  background:grey;
+ background-color: #666666; 
+ color: #aaaaaa;  
+ text-align: left;
+}
+
+#about-info {
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+#about-info p{
+  font-size: 1em;
+  font-weight: light;
+  line-height: 1em;
 }
 
 #portfolio {
-  background:white;
+ background-color: white; 
+ color: 	#666666;  
 }
 
+
 #contact {
-  background:grey;
+ background-color: #c2e8ff; 
 }
+
+.navbar {
+  color: white;  
+}
+
+.navbar-default {
+  background-color: #c2e8ff;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #c2e8ff;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color:#c2e8ff;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    background: ##c2e8ff;
+} 
+
+.modal-header {
+  background-color: #c2e8ff;
+  color: #c2e8ff;
+}
+
+.modal-body {
+  color: #c2e8ff;
+}
+
+.modal-body img {
+  height: 10em;
+  margin: 2em;
+}
+
+#about-image {
+ background-image: url("https://static.pexels.com/photos/45058/pexels-photo-45058.jpeg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-color: #666666;   
+ height: 18.75em;
+}
+
