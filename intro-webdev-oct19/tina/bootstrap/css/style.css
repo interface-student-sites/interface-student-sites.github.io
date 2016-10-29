@@ -39,12 +39,12 @@ section {
 }
 
 #intro {
-  background-image: ("img src=img/robnc.jpg");
+  background-image: url("img src=img/robnc.jpg");
   background-color:#df80ff;
 }
 
 .intro-section {
-  background-image: "img src=img/robnc.jpg";
+  background-image: url("img src=img/robnc.jpg");
   background-color:#df80ff;
 }
 
