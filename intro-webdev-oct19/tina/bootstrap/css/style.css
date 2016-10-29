@@ -38,6 +38,11 @@ section {
   width: 12.5em;
 }
 
+#item-active {
+  height: 150em;
+  width: auto;
+  {
+
 #intro {
   background-image: url(img src="img/robnc.jpg");
 }
