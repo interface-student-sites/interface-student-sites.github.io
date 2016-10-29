@@ -134,42 +134,43 @@ h2 {
 }  
 
 input[type=text] {
-    border: 2px solid #A9A9A9;
-    border-radius: .5em;
-    text-align: left;
+  border: 2px solid #A9A9A9;
+  border-radius: .5em;
+  text-align: left;
 }
 
 textarea {
-    border: 2px solid #A9A9A9;
-    border-radius: .5em;
+  border: 2px solid #A9A9A9;
+  border-radius: .5em;
 }
 
 input[type=text]:focus {
-    background-color: #CAEBF2;
+  background-color: #CAEBF2;
 }
 
 input[type=button], input[type=reset] {
-    background-color: #DDD;
-    border: none;
-    color: #A9A9A9;
-    border-radius: .5em;
-    padding: 16px 32px;
-    text-decoration: none;
-    margin: 4px 2px;
-    cursor: pointer;
+  background-color: #DDD;
+  border: none;
+  color: #A9A9A9;
+  border-radius: .5em;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
 input[type=submit] {
-    background-color: #E37222;
-    border: none;
-    color: white;
-    border-radius: .5em;
-    padding: 16px 32px;
-    text-decoration: none;
-    margin: 4px 2px;
-    cursor: pointer;
+  background-color: #E37222;
+  border: none;
+  color: white;
+  border-radius: .5em;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
 input[type=submit]:hover {
-    background-color: #CAEBF2;
+  background-color: #CAEBF2;
+  color: #A9A9A9;
 }
