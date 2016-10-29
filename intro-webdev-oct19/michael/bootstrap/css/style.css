@@ -88,10 +88,10 @@ p {
  height: 18.75em;
 }
 
-/* --- WORKS SECTION --- */
+/* --- SERVICES SECTION --- */
 #services {
- background-color: #E37222; 
- color: #FFF;  
+ background-color: #CAEBF2; 
+ color: #A9A9A9;  
 }
 
 #detail-services {
@@ -104,8 +104,8 @@ p {
 
 /* --- WORKS SECTION --- */
 #recent-work {
- background-color: #CAEBF2; 
- color: #A9A9A9;  
+ background-color: #A9A9A9; 
+ color: #FFF;  
 }
 
 .carousel-inner > .item > img,
@@ -118,8 +118,8 @@ p {
 
 /* --- CONTACT SECTION --- */
 #contact {
- background-color: slategray; 
- color: #FFF;
+ background-color: #FFF; 
+ color: #A9A9A9;
 /*  text-align: center; */
 }
 
@@ -148,13 +148,13 @@ p {
 }  
 
 input[type=text] {
-  border: 2px solid #A9A9A9;
+  border: 2px solid #DDD;
   border-radius: .5em;
   text-align: left;
 }
 
 textarea {
-  border: 2px solid #A9A9A9;
+  border: 2px solid #DDD;
   border-radius: .5em;
 }
 
