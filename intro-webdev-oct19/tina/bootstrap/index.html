@@ -47,7 +47,7 @@
       </nav>
     
     <!-- Intro Section -->
-    <section id="intro">
+    <section id="intro" class="intro-section">>
       <div class="container">
         <div class="row">
       <div class="col-lg-12">
@@ -78,7 +78,7 @@
       </div>
     </section>
     <!-- About Section -->
-    <section id="about">
+    <section id="about" class="aboutt-secdtion">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -88,6 +88,7 @@
               <div class="row">
                 <div class="col-sm-4" id="about-image">
                 </div>
+                <img id= "about-pic" src="image link" />
                 <div class="col-sm-8">
                   <p>About text</p>
                 </div>
@@ -99,52 +100,85 @@
     </section>
 
              <!--Portfolio Section -->
-    <section id="portfolio">
+    <section id="portfolio" class="portfolio-section">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
             <h1>Portfolio Section</h1> 
-            <a class="btn btn-default page-scroll" href="portfolio">Portfolio</a>
-            
-            <div class="container">
-                <div class="row">
-                  <div class="col-sm-6">
-                  <p>Portfolio text</p>
-                  </div>
-                  <div class="col-sm-6">
-                    <p>More Portfolio text</p>
-                  </div>
+   
+             <!--ADD CAROUSEL TO PORTFOLIO - CODE FROM W3SCHOOLS: http://www.w3schools.com/bootstrap/bootstrap_carousel.asp-->
+              <div id="myCarousel" class="carousel slide" data-ride="carousel">
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <!--THE INDICATORS ARE THE DOTS AT THE BOTTOM OF THE CAROUSEL WHICH ALLOW YOU TO NAVIGATE TO ANY SLIDE
+                REMEMBER TO USE PEXELS.COM FOR PHOTOS OR YOU CAN CREATE AN IMAGE FOLDER ON GITHUB, UPLOAD PHOTOS THERE 
+                THEN REFERENCE THOSE PHOTOS AS FOLLOWS:
+                  <img src="img/mypicture.jpg" />
+                  where 'mypicture.jpg' is your picture's name
+                -->
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+                <li data-target="#myCarousel" data-slide-to="3"></li>
+              </ol>
+
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+                <!--FIRST SLIDE-->
+                <div class="item active">
+                  <img src="PICTURE LINK" alt="ALTERNATE TEXT IF PHOTO DOES NOT APPEAR">
+                </div>
+                <!--SECOND SLIDE-->
+                <div class="item">
+                  <img src="img_chania2.jpg" alt="Chania">
+                </div>
+                <!--THIRD SLIDE-->
+                <div class="item">
+                  <img src="img_flower.jpg" alt="Flower">
+                </div>
+                <!--FOURTH SLIDE-->
+                <div class="item">
+                  <img src="img_flower2.jpg" alt="Flower">
                 </div>
               </div>
-          </div>
-        </div>
-      </div>
-    </section>
-                      
+
+              <!-- Left and right controls -->
+              <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+          </div> 
+        </div> 
+      </div> 
+    </section>      
              <!--Contact Section -->
-    <section id="contact">
+    <section id="contact" class="contact-section">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
             <h1>Content Section</h1>
-            <a class="btn btn-default page-scroll" href="contact">Contact</a>
-              <div class="container">
-                <div class="row">
-                  <div class="col-sm-6">
-                  <p>contact text</p>
-                  </div>
-                  <div class="col-sm-6">
-                    <p>More contact Text</p>
-                    <a href="mailto:tmjensenholmes2@gmail.com">      tmjensenholmes2@gmail.com</a>
-                  </div>
-                </div>
-              </div>
-          </div>
-        </div>
-      </div>
-    </section>
- 
-          <script src="js/jquery.easing.min.js"></script>
-          <script src="js/scrolling-nav.js"></script>
-          </body>
-        </html>
+            
+            
+            <!--CONTACT FORM-->      
+              <form action="action_page.php">
+                First name: <input type="text" name="firstname" value="Mickey"><br /><br />
+                Last name: <input type="text" name="lastname" value="Mouse"><br /><br />
+                E-mail: <input type="email" name="user_email"><br /><br />
+                  <textarea name="message" rows="10" cols="30">
+                The cat was playing in the garden.
+                </textarea>
+                  <br />
+                <input type="submit" value="Submit">
+              </form>
+
+            </div> 
+          </div> 
+        </div> 
+      </section>   
+    </body>
+</html>
