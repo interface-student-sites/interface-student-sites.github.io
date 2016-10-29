@@ -1,108 +1,203 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Workman</title>
-    
+    <title>TEAM PROTEIN</title>
+      
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    
+
     <!-- jQuery library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
     <!-- Latest compiled JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    
+
     <script src="js/script.js"></script>
+
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+  </head>
+  
+  <body id="top-page" data-spy="scroll" data-target=".navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class ="navbar-header page-scroll">
+          <a class="navbar-brand page-scroll" href="#top-page">Ace Auto Detailing</a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          
+          <ul class="nav navbar-nav">
+            <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+            <li class="hidden">
+              <a class="page-scroll" href="#top-page"></a>
+            </li>
+             <li>
+              <a class="page-scroll" href="#about">About</a>
+            </li>            
+            <li>
+              <a class="page-scroll" href="#portfolio">Portfolio</a>
+            </li>   
+            <li>
+              <a class="page-scroll" href="#contact">Contact</a>
+            </li>
+          </ul>
+          
+        </div>
+      </div>
+    </nav>
     
-    
-    <link rel="stylesheet" href="css/style.css" />
-    
-</head>
-<body id="top-page" data-spy="scroll" data-target=".navbar-fixed-top">
-  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-          <div class="container">
-              <div class="navbar-header page-scroll">
-                 <a class="navbar-brand page-scroll" href="#top-page">Workman</a>
+    <!-- Intro Section -->
+    <section id="intro">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <h1>Team Protein</h1>
+            <h2>Becoming the best YOU</h2>
+            
+            <!-- Modal Button Trigger -->
+            <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Meet Ace</button>
+            <!-- <a class="btn btn-default page-scroll" href="#about">About Me</a> -->
+            <!-- My Modal -->
+            <div id="myModal" class="modal fade" role="dialog">
+              <div class="modal-dialog">
+                
+                <!-- Modal Content -->
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Anthony "Ace" Leuck</h4>
+                  </div>
+                  <div class="modal-body">
+                    <img src="http://cdn.simplyshredded.com/wp-content/uploads/2010/07/protein-powder.jpg" />
+                    <p>Join now for a free consultation and tour.</p>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+            
               </div>
-  <div class="collapse navbar-collapse navbar-ex1-collapse">
-
-<ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
-                         <a class="page-scroll" href="#top-page"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
-                </ul>
-</div>
-</div>
-</nav>
- <!--Intro Section-->
-    <section id="intro" class="intro-section">
-      <div class="container">
-        <div class="row">
-      <div class="col-lg-12">
-        <h1>My Webpage</h1> 
-        <a class="brn btn-defaulth page-scroll" href="#about">About Me</a>
-      </div> 
-      </div> 
-    </div> 
-  </section>
-        <!--About Section-->
-    <section id="about" class="about-section">
-      <div class="container">
-        <div class="row">
-      <div class="col-lg-12">
-        <h1>About</h1> 
-      </div> 
-      </div> 
-    </div> 
-  </section>   
+            </div>
+        
+          </div>
+        </div>
+      </div>
+    </section>
     
-    <!--Portfolio Section-->
-    <section id="portfolio" class="portfolio-section">
+    <!-- About Section -->
+    <section id="about">
       <div class="container">
         <div class="row">
-      <div class="col-lg-12">
-        <h1>Portfolio</h1> 
-      </div> 
-      </div> 
-    </div> 
-  </section>   
+          <div class="col-lg-12">
+            <!-- <a class="btn btn-default page-scroll" href="#about">About Me</a> -->
+            
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-4" id="about-image">
+                  <!-- <img src="https://static.pexels.com/photos/5989/man-hand-car-wheels.jpg" /> -->
+                </div>
+                <div class="col-sm-8" id="about-info">
+                  <h1>About</h1>
+                  <h2>Team Protein is a lifestyle fitness brand.</h2>
+                  <p>Whether you are a gym junky, a weekend warrior or maybe you visit the gym once a year. Protein is a part of your journey. Purchase and view our clothing selection to show your dedication to your fitness lifestyle.</p>
+                </div>
+              </div>
+            </div>
+                
+          </div>
+        </div>
+      </div>
+    </section>
     
-    <!--Contact Section-->
-    <section id="contact" class="contact-section">
+    <!-- Portfolio Section -->
+    <section id="portfolio">
       <div class="container">
         <div class="row">
-      <div class="col-lg-12">
-        <h1>Contact</h1> 
-      </div> 
-      </div> 
-    </div> 
-  </section>   
+          <div class="col-lg-12">
+            <h1>Portfolio</h1>
+            <!-- <a class="btn btn-default page-scroll" href="#portfolio">Portfolio</a>-->
+            
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+              <!-- Indicators -->
+              <ol class="class-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+                <li data-target="#myCarousel" data-slide-to="3"></li>
+              </ol>
+              
+              <!-- Wrapper for Slides -->
+              <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                  <img src="https://photos.google.com/photo/AF1QipMOYXjINk9GQzl9FeMW4LSTcbxr1meiEL6DUZOn" alt="Blue Tank">
+                </div>
+                <div class="item">
+                  <img src="https://photos.google.com/search/_tra_/photo/AF1QipNAnXxWryy7BRUBYgvqNCpnf-UUqwAla5yXNnT2" alt="White Tank">
+                </div>
+                <div class="item">
+                  <img src="https://photos.google.com/search/_tra_/photo/AF1QipMLyKvKSve171yWrvycfpKSwQBLRjzG20gu46lJ" alt="Twisted Steel and Sex Appeal">
+                </div>
+                <div class="item">
+                  <img src="images/carspray.jpg" alt="Looking Tough Feeling Tough">
+                </div>   
+                <div class="item">
+                  <img src="images/waxing.jpg" alt="Swole as a Bull">
+                </div>                
+              </div>
+              
+              <!-- Left and Right controls -->
+              <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              
+              <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
 
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
-    </script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
-    </script>
-    <!--I will share these with you -->
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Contact Section -->
+    <section id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <h1>Join our Newsletter</h1>
+            <!-- <a class="btn btn-default page-scroll" href="#contact">Contact</a> -->
+            
+            <div class="container">
+              <div class="row">
+                <form>
+                  <div>First name:</div><br />
+                  <input type="text" name="firstname"><br />
+                  <div>Last name:</div><br />
+                  <input type="text" name="lastname"><br />
+                  <div>Email:</div><br />
+                  <input type="text" name="email"><br />
+                  <div>Description:</div><br />
+                  
+                </form>
+                
+              </div>
+            </div>    
+
+          </div>
+        </div>
+      </div>
+    </section>            
+  
+    <!-- Scrolling Function -->
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/scrolling-nav.js"></script>
-
     
-    </body>
-    </html>
-  
-  
+  </body>
     
-  
+</html>
+    
