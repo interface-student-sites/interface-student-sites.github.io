@@ -129,6 +129,7 @@ h2 {
 
 .form-input {
 /*  text-align: left; */
+  display: inline/
 }  
 
 input[type=text] {
