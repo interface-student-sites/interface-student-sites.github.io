@@ -10,15 +10,15 @@ section {
 }
 
 #about {
-  background: blue;
+  background: #df80ff;
 }
 
 #portfolio {
-  background: pink;
+  background: d24dff;
 }
 
 #contact {
-  background: yellow;
+  background: c61aff;
 }
   
 .navbar-default {
@@ -26,7 +26,7 @@ section {
 }
 
 .navbar-default .navbar-nav>li>a }
-    color: green;
+    color: f9e6ff;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
