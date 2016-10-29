@@ -98,8 +98,12 @@ p {
   
 }
 
-#service-icons {
-  
+#detail-services > h2 {
+ text-align: center;   
+}
+
+#service-icons > img {
+ text-align: center; 
 }
 
 /* --- WORKS SECTION --- */
