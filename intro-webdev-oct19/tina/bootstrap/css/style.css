@@ -36,6 +36,8 @@ section {
 /*Change the background to an image*/
 #intro.intro-section {
     background: #c61aff url('../img/kidspic.jpg');
+    height:20em;
+    width:auto;
 }
 
 #intro-modal {
