@@ -22,7 +22,7 @@ h2 {
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
- background-color: 	#0d97ff; 
+ background-color: 	white; 
 }
 
 #about {
@@ -49,7 +49,7 @@ h2 {
 
 
 #contact {
- background-color: #12089d; 
+ background-color: #000060; 
 }
 
 .navbar {
@@ -69,7 +69,7 @@ h2 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    background: #c2e8ff;
+    background: #000060;
 } 
 
 .modal-header {
