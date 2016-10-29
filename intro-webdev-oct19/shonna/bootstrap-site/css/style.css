@@ -9,10 +9,6 @@ section {
     text-align: center; 
 }
 
-#intro {
-    background: red;
-}
-
 #about {
     background: blue;
 }
@@ -24,3 +20,34 @@ section {
 #contact {
     background: yellow;
 }
+
+/*homework*/
+
+/*change nav bar background color*/
+.navbar-default {
+	background: red;
+}
+
+/*change nav bar text color*/
+.navbar-default .navbar-nav>li>a {
+	color: green;
+}
+
+/*change nav bar text color when you hover over a link*/
+.navbar-default .navbar-nav>li>a:hover {
+	color: yellow;
+}
+
+/*Change the background to an image*/
+#intro {
+    background: url('link to picture');
+}
+
+/*About section photo resizing*/
+#about-pic {
+	height: 12.5em;
+	width: 12.5em;
+}
+
+
+
