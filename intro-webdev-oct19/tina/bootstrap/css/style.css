@@ -39,11 +39,13 @@ section {
 }
 
 #intro {
-  background: "img src=img/robnc.jpg";
+  background-image: ("img src=img/robnc.jpg");
+  background-color:#df80ff;
 }
 
 .intro-section {
-  background: "img src=img/robnc.jpg";
+  background-image: "img src=img/robnc.jpg";
+  background-color:#df80ff;
 }
 
 #about-pic {
