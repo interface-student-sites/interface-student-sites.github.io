@@ -27,6 +27,11 @@ section {
   background: white;
   /*https://static.pexels.com/photos/1043/red-building-industry-bricks.jpg*/
 }
+#intro:img {
+  border-radius:10em;
+  height:10em;
+  width:10em;
+}
 #about {
   background: #28283e;
 }
