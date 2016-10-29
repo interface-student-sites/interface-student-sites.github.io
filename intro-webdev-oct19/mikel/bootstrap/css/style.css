@@ -61,7 +61,7 @@ section {
 
 #portfolio-content img {
   height:25em;
-/*  width:25em;  */
+  width:auto;  
   background-position: center;  
 }
 #contact {
