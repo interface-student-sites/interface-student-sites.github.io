@@ -17,60 +17,6 @@ h2 {
  text-transform: uppercase;
 }
 
-#intro {
- background-image: url("https://static.pexels.com/photos/132657/pexels-photo-132657.jpeg");
- background-size: cover;
- background-repeat: no-repeat;
- background-position: center;
- background-color: #A9A9A9; 
-}
-
-#about {
- background-color: #FFF; 
- color: #A9A9A9;  
- text-align: left;
-}
-
-#about-info {
-  padding-left: 3em;
-  padding-right: 3em;
-}
-
-#about-info p{
-  font-size: 1em;
-  font-weight: light;
-  line-height: 2em;
-}
-
-#portfolio {
- background-color: #CAEBF2; 
- color: #A9A9A9;  
-}
-
-.carousel-inner > .item > img,
- .carousel-inner > .item > a > img {
-   width: 100%;
-   margin: auto;
-}
-
-/*  background-color: #FF3B3F; */
-#contact {
- background-color: slategray; 
- color: #FFF;
- text-align: center;
-}
-
-#contact-form {
- padding-left: 4em;
- color: #A9A9A9;
- text-align: left;
- width: 70%;
-}
-
-.form-headings {
- color: #FFF;
-}
-
 .navbar {
   color: black;  
 }
@@ -91,6 +37,15 @@ h2 {
     background: #CAEBF2;
 } 
 
+/* --- INTRO SECTION --- */
+#intro {
+ background-image: url("https://static.pexels.com/photos/132657/pexels-photo-132657.jpeg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-color: #A9A9A9; 
+}
+
 .modal-header {
   background-color: #E37222;
   color: #FFF;
@@ -105,6 +60,24 @@ h2 {
   margin: 2em;
 }
 
+/* --- ABOUT SECTION --- */
+#about {
+ background-color: #FFF; 
+ color: #A9A9A9;  
+ text-align: left;
+}
+
+#about-info {
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+#about-info p{
+  font-size: 1em;
+  font-weight: light;
+  line-height: 2em;
+}
+
 #about-image {
  background-image: url("https://static.pexels.com/photos/5989/man-hand-car-wheels.jpg");
  background-size: cover;
@@ -113,3 +86,37 @@ h2 {
  background-color: #A9A9A9;   
  height: 18.75em;
 }
+
+/* --- PORTFOLIO SECTION --- */
+#portfolio {
+ background-color: #CAEBF2; 
+ color: #A9A9A9;  
+}
+
+.carousel-inner > .item > img,
+ .carousel-inner > .item > a > img {
+   width: 100%;
+   margin: auto;
+}
+
+/* --- CONTACT SECTION --- */
+#contact {
+ background-color: slategray; 
+ color: #FFF;
+ text-align: center;
+}
+
+#contact-form {
+ padding-left: 4em;
+ color: #A9A9A9;
+ text-align: left;
+ width: 70%;
+}
+
+.form-headings {
+ color: #FFF;
+}
+
+
+
+
