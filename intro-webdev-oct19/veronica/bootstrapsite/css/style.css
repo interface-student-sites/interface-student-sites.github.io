@@ -11,28 +11,25 @@ section {
 
 #intro {
   background-image: url("https://static.pexels.com/photos/134638/pexels-photo-134638.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-color: #A9A9A9; 
+  
 }
 
 
 
 #portfolio{
-  background: pink;
+  background: #C0C0C0;
 }
 
 #about {
-  background: red;
+  background: #008080;
 }
 
 #contact{
-  background: yellow;
+  background: #C0C0C0;
 }
 
 .navbar-default{
-  background: orange;
+  background: #008080;
   
 }
 li a:hover {
