@@ -127,9 +127,9 @@ h2 {
 /*  display: inline;  */
 }
 
-/* .form-input {
- text-align: left;
-}  */
+.form-input {
+/*  text-align: left; */
+}  
 
 input[type=text] {
     border: 2px solid #A9A9A9;
