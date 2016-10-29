@@ -2,7 +2,9 @@ body {
   width: 100%;
   Height: 100%; 
   Color: black; 
-  text-align: left;
+  text-align: left; 
+  background-image: url("https://static.pexels.com/photos/87056/sunflower-sunflower-field-flora-field-87056.jpeg");
+  background-repeat: no-repeat;
 
 } 
   .active {
@@ -19,8 +21,7 @@ section {
 
 #intro { 
   background: skyblue; 
-  background-image: url("https://static.pexels.com/photos/90762/sunset-day-summer-sky-90762.jpeg");
-  background-repeat: no-repeat;
+
 }
   /*at this line, you can add an image or a background color */ 
 
