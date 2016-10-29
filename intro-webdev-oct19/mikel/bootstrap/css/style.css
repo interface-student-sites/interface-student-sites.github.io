@@ -37,11 +37,6 @@ section {
  background-color: white; 
 }
 
-img {
-  border-radius:10em;
-  height:10em;
-  width:15em;
-}
 #about {
   background: #28283e;
 }
@@ -55,4 +50,14 @@ img {
 }
 #about-left {
  background-color: #28283e; 
+}
+img {
+  border-radius:10em;
+  height:10em;
+  width:15em;
+}
+#portfolio-content img {
+  height:10em;
+  width:10em;
+  border-radius: 10em;
 }
