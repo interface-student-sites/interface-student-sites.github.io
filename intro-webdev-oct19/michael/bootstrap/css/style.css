@@ -50,6 +50,11 @@ h2 {
 /*  background-color: #FF3B3F; */
 #contact {
  background-color: slategray; 
+ color: #A9A9A9;
+}
+
+.form-headings {
+ color: #FFF;
 }
 
 .navbar {
