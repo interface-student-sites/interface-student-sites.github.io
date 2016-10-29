@@ -33,6 +33,9 @@ section {
       color: yellow;
 }
 
+.intro-pic {
+  background: url("img src=img/robnc.jpg");
+}
 #intro-modal {
   height: 12.5em;
   width: 12.5em;
