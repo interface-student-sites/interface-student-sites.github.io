@@ -7,7 +7,6 @@ section {
   padding-top: 9.374em;
   text-align: center;
   }
-/*  background: #33334d;*/
 #intro {
   background: #14141f;
 }
@@ -22,7 +21,7 @@ section {
     padding-bottom: 15px;
     color: white;
 }
-.navbar-default .navbar-nav>li>a {
+.navbar-default .navbar-nav>li>a:hover {
     padding-top: 15px;
     padding-bottom: 15px;
     color: red;
