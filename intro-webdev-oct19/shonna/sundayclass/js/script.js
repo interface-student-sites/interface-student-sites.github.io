@@ -6,5 +6,8 @@ $(document).ready(function() {
   $('p').click(function(){ 
     $(this).hide(); 
   });
-
+  
+  $('h1').click(function(){
+  $(this).html('Dorsey Shonna');
+  });
 });
