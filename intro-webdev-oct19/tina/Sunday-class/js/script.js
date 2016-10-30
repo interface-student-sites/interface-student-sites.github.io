@@ -1,11 +1,11 @@
 $(document).ready(function() {
 
 
-$('img').click(function() }
+$('img').click(function() {
 $(this).hide();
 });
 
-$('p').click(function() }
+$('p').click(function(){
 $(this).hide();
 });
 
