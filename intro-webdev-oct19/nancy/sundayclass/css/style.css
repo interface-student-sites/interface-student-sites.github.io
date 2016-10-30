@@ -1,1 +1,28 @@
-text 
+/*H1,H2, p, #pink-paragraph, img, #rounded-image*/ 
+
+h1 {
+  font-size: 2em; 
+  color: purple; 
+}
+
+h2 { 
+  font-size: .5em; 
+  color: green; 
+}
+
+p {
+  font-size: italic; 
+}
+
+#pink-paragraph {
+  color: pink; 
+}
+
+img { 
+ height: 12.5em; 
+ width: 12.5em;
+}
+
+#round-image {
+ border-radius: 12.5em; 
+}
