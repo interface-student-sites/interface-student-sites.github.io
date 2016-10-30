@@ -1,5 +1,5 @@
 $(document).ready(function() { 
-  $('img).click(funciont() { 
+  $('img').click(function() { 
     $(this).hide(); 
 }); 
 
