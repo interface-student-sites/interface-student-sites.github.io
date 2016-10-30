@@ -1,1 +1,26 @@
-text
+h1 {
+  font-size: 2em;
+  color: purple;
+}
+
+h2 {
+  font-size: 1em;
+  color: yellow;
+}
+
+p {
+  font-style: italic;
+}
+
+#red-paragraph {
+  color: red;
+}
+
+img {
+  height: 12.5em;
+  width: 12.5em;
+}
+
+#round-image {
+  border-radius: 12.5em;
+  
