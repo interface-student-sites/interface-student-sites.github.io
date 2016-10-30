@@ -10,6 +10,6 @@ $(this).hide();
 });
   
   $('h1').click(function(){
-  $(this).htlm('Holmes Tina');
+  $(this).html('Holmes Tina');
 });
 });
