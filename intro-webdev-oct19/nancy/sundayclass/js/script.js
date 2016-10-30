@@ -3,7 +3,7 @@ $(document).ready(function() {
     $(this).hide(); 
 }); 
 
-  $('p').click(funcion() { 
+  $('p').click(function() { 
    $(this).hide();
 });
   
