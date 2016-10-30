@@ -7,6 +7,10 @@ $(document).ready(function() {
    $(this).hide();
 });
   
+  $('h1').click(function() {
+  $(this).html('Goodell Nancy') 
+  });
+  
 }); 
 
 
