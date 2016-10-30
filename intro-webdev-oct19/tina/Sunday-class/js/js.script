@@ -5,7 +5,7 @@ $('img').click(funtion() }
 $(this).hide();
 });
 
-$('p").click(function() }
+$('p').click(function() }
 $(this).hide();
 });
 
