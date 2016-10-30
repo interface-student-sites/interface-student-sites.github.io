@@ -8,7 +8,7 @@ $(document).ready(function() {
 });
   
   $('h1').click(function() {
-  $(this).html('Goodell Nancy') 
+  $(this).html('Goodell Nancy'); 
   });
   
 }); 
