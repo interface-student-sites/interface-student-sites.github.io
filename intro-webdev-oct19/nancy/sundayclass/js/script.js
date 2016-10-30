@@ -1,1 +1,7 @@
-tesxt
+$(document).ready(function() { 
+  
+  
+}); 
+
+
+
