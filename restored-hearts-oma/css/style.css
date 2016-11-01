@@ -416,7 +416,7 @@ ul.tab li a:hover {background-color: #ddd;}
 .survivor {
 	height: 10em;
 	width: auto;
-	border-radius: 1.25px;
+	border-radius: 1.25em;
 	margin: 1em;
 }
 
