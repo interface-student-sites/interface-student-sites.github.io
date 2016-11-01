@@ -169,7 +169,7 @@ button a, button a:hover  {
 	padding-top: 80px;
     
 }
-resources .col-lg-4, .col-lg-5, .col-lg-6 {
+.resources .col-lg-4, .col-lg-5, .col-lg-6 {
   margin-bottom: 20px;
   text-align: center; 
 }
@@ -411,6 +411,21 @@ ul.tab li a:hover {background-color: #ddd;}
   margin-right: 0;
   display:block;
 }
+
+/*Survivor Stories CSS*/
+img .survivor {
+	height: 10em;
+	width: auto;
+	border-radius: 1.25px;
+	margin: 1em;
+}
+
+p .survivor {
+	font-style: italic;
+	font-weight: 700;
+}
+	
+	
 
 
 
