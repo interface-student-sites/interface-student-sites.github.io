@@ -3,11 +3,9 @@ property:value;
 */
 h1, p, nav{
 display:none;
-  
-
 }
-img{
-height:12.5em;
+img {
+  height:12.5em;
   width:12.5em;
   border-radius:12.5em;
 }
