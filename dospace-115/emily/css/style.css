@@ -3,7 +3,7 @@ property:value;
 */
 
 h1, p, nav {
-  display:non;
+  display:none;
 }
 
 img {
