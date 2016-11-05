@@ -2,7 +2,7 @@
 property:value;
 */
 
-h1, p, nav {
+h1, p, nav, h3 {
   display:none;
 }
 
