@@ -1,6 +1,7 @@
 /*selector{
 property:value;
 */
+
 h1, p, nav {
  display:none; 
 }
