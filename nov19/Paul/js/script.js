@@ -1,10 +1,10 @@
-$(document).ready(function () {
+$(document).ready(function() {
  $("h1, p").fadeIn(5000);
  $("button").click(function(){
- $("img").toggle();
+  $("img").toggle();
  }); 
- $("p".click(function() {
-  $("p").css("background-color", "teal");
+ $("body".click(function() {
+  $("body").css("background-color", "teal");
   });
 });
  
