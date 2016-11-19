@@ -2,10 +2,12 @@ h1 {
     font-size: 3em; 
     color:teal;
     text-align: center;
+    display:none;
     }
 p {
    font-style: italic;
    color: purple;
+   display:none;
 }
 img {
   height: 15em;
