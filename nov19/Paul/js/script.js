@@ -4,7 +4,7 @@ $(document).ready(function() {
   $("img").toggle();
  }); 
  $("body".click(function() {
-  $("body").css("background-color", "teal");
+  $("body").css("background-color", "yellow");
   });
 });
  
