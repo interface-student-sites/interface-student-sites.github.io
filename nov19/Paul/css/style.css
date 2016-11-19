@@ -1,1 +1,20 @@
-test
+h1 {
+    font-size: 3em; 
+    color:teal;
+    text-align: center;
+    }
+p {
+   font-style: italic;
+   color: purple;
+}
+img {
+  height: 15em;
+   width: 15em;
+  }
+#mspaint {
+  font-size: 2em;
+  }
+#round-picture{
+  border-radius: 15em;
+  }
+
