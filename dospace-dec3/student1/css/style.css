@@ -9,6 +9,6 @@ body {
   text-align: center;
 }
 
-#about {background: green;}
-#portfolio {background: red;}
-#contact {background: yellow;}
+#about {background: blue;}
+#portfolio {background: black;}
+#contact {background: blue;}
