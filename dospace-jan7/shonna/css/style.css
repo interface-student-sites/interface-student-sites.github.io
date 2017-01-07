@@ -3,10 +3,30 @@ selector {
   property:value;
 }
 */
-header {
+header, footer {
   height: 100px;
-  width: 500px;
+  width: 1000px;
   padding: 20px;
   background: #33cc33;
   color: white;
+  font-size: 30px;
+  text-align: center;
 }
+
+nav {
+  width: 20%;
+  height: 500px;
+  background: gray;
+  color: purple;
+}
+
+section {
+  width: 80%;
+  height: 500px;
+  background: pink;
+}
+
+footer {
+  clear: both;
+}
+
