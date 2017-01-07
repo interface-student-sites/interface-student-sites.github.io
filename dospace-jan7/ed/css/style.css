@@ -1,0 +1,55 @@
+/*
+selector {
+  property:value;
+}
+*/
+body {
+  background: url('https://static.pexels.com/photos/1486/wood-pattern-ground-parquet-floor.jpg');
+  background-size:cover;
+  color: #fff;
+  
+}
+
+header {
+    background: black;
+    color: blue;
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+}
+
+nav {
+    line-height: 50px;
+    background: #cccccc;
+    height: 800px;
+    width: 100px;
+    float: right;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+section {
+    width: 300px;
+    float: left;
+    padding: 25px;
+}
+
+h1 {
+  color:red;
+}
+
+img, iframe {
+  height:200px;
+  width:200px;
+  border-radius:200px;
+}
+
+img:hover {
+  border-radius:0px;
+}
+
+p:hover {
+  background:yellow;
+  font-style:italic;
+  font-size:2em;
+}
