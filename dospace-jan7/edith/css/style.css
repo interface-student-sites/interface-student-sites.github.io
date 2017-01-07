@@ -3,20 +3,11 @@ selector {
   property:value;
 }
 */
-a {
-  color: pink;
-  text-decoration: none;
+header {
+  height: 100px;
+  width: 500px;
+  padding: 20px;
+  background: #33cc33;
+  color: white;
 }
-
-a:hover {
-  background: blue;
-}
-
-img {
-  height: 12.5em;
-  width: 12.5em;
-}
-
-#rounded-corners {
-  border-radius: 12.5em;
-}
+  
