@@ -10,11 +10,11 @@ a {
 a:hover{background: pink;
 }
 img {
-  height: 12.5 em;
-  width: 12.5 em;
+  height: 12.5em;
+  width: 12.5em;
 }
 #rounded-corners {
-   border-radius: 12.5 em;
+   border-radius: 12.5em;
 }
 
 
