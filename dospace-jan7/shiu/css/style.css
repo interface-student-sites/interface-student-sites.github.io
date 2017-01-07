@@ -4,7 +4,7 @@ selector {
 }
 */
 
-header {
+header, footer {
   height: 100px;
   width: 1000px;
   padding: 20px;
@@ -27,4 +27,6 @@ section {
   background: pink;
 }
 
-
+footer {
+  clear: both;
+}
