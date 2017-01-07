@@ -17,14 +17,19 @@ nav {
   width:20%;
   height:500px;
   background: blue;
-  color: white:
+  color: white;
+  padding-left: 20px;
 }
 section {
   width:80%;
   height:500px;
   background: orange;
 }
- 
+
+img {
+  height:200px;
+  width:200px;
+}
 
 footer {
   clear: both;
