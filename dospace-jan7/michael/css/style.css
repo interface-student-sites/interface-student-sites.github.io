@@ -32,13 +32,13 @@ header, footer {
   padding: 32px;
   background: black;
   color: orange;
-  font-size: 48px;
+  font-size: 30px;
   text-align: center;
 }
 
 nav {
   width:20%;
-  height: 720px;
+  height: 1024px;
   padding-left: 5%;
   background: grey;
   color: black;
@@ -47,7 +47,7 @@ nav {
 
 section {
   width: 75%;
-  height: 720px;
+  height: 1024px;
   background: white;
 }
 
