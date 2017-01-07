@@ -1,23 +1,24 @@
-/*
-selector {
-  property:value;
+header {
+  height: 100px;
+  width: 500px;
+  padding: 20px;
+  background: #33cc33;
+  color: white;
+  font-size:30px;
+  text-align: center;
+  }
+ nav {
+    width: 20%;
+   height:500px;
+   background:gray;
+   color: purple;
 }
-*/
-a {
-  color: black;
-  text-decoration: none;
+section {
+    width: 80%;
+  height:500px;
+  background: pink;
 }
 
-a:hover {
-  background: yellow;
-}
-
-img {
-  height: 12.5em;
-  width: 12.5em;
-}
-
-#rounded-corners {
-  border-radius: 12.5em;
-}
+footer {
+  clear: both;
 }
