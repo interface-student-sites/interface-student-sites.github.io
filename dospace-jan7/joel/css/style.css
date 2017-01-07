@@ -13,8 +13,11 @@ a:hover {
   background: yellow;
 }
 
-.circlular-image{
+img{
   height: 12.5em;
   width: 12.5em;
+}
+
+.circlular-image{  
   border-radius: 12.5em;
 }
