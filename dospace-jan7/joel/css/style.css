@@ -13,3 +13,8 @@ a:hover {
   background: yellow;
 }
 
+.circle{
+  height: 12.5em;
+  width: 12.5em;
+  border-radius: 12.5em;
+}
