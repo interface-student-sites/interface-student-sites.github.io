@@ -5,7 +5,7 @@ selector {
 */
 header, footer {
   height: 100px;
-  width: 1000px;
+  width: 100px;
   padding: 20px;
   background: #000066;
   color: white;
