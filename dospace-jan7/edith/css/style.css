@@ -16,13 +16,13 @@ header, footer {
 nav {
   width: 20%;
   height: 500px;
-  background: blue;
+  background: pink;
   color: purple;
   padding-left: 20px;
 }
 
 section {
-  width: 80%;
+  width: 70%;
   height: 500px;
   background: pink;
 }
