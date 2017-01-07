@@ -27,7 +27,7 @@ img {
   border-radius: 12.5em;
 }
 
-header {
+header, footer {
   height: 128px;
   width: 1024px;
   padding: 32px;
@@ -42,11 +42,17 @@ nav {
   height: 500px;
   background: grey;
   color: black;
-  
+}
 
-section
+section {
+  width: 80%;
+  height: 512px;
+  background: white;
+}
 
-footer
+footer {
+  clear: both;
+}
 
 #standard-paragraph-1 {
   x
