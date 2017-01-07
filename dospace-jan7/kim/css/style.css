@@ -19,12 +19,14 @@ nav {
   background: black;
   color: pink;
   padding-left: 20px;
+  float:left;
 }
 
 Section {
   width: 80%;
   height: 500px;
   background: gray;
+  float:right;
 }
 
 img {
