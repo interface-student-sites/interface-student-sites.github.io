@@ -18,15 +18,14 @@ nav {
   height: 500px;
   background: gray;
   color: purple;
-  padding-left: 20px;
   float:left;
 }
 
 section {
-  width: 70%;
+  width: 80%;
   height: 500px;
   background: pink;
-  float:right;
+  float:left;
 }
 
 img {
