@@ -18,7 +18,9 @@ nav {
     height: 500px
   background: gray;
   color: purple;
-  padding-left; 20px
+  padding-left; 20px;
+  float:left;
+  
 }
 
 img {
@@ -30,6 +32,8 @@ section {
   width: 80%;
   height: 500px;
   background: pink;
+  float:right;
+  
 }
 
     footer{
