@@ -11,3 +11,12 @@ a {
 a:hover {
   background: blue;
 }
+
+img {
+  height: 12.5 em;
+  width: 12.5 em;
+}
+
+#rounded-corners {
+  border-radius: 12.5 em;
+}
