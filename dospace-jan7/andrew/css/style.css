@@ -19,6 +19,7 @@ nav {
   background: gray;
   color: purple;
   padding-left: 20px;
+  float: left;
 }
 
 section {
