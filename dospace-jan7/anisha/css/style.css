@@ -3,20 +3,10 @@ selector {
   property:value;
 }
 */
-a {
-  color: green; 
-  text-decoration: none;
-}
-
-a:hover {
-  background: black;
-}
-
-img {
-  height: 12.5em;
-  width: 12.5em;
-}
-
-#rounded-corners {
-  border-radius: 12.5em;
+header {
+  height:100px;
+  width:500px;
+  padding:20px;
+  background: #33cc33;
+  color: white;
 }
