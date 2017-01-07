@@ -3,18 +3,13 @@ selector {
   property:value;
 }
 */
-a {
-  color: black;
-  text-decoration: none;
-}
-a:hover{background: pink;
-}
-img {
-  height: 12.5em;
-  width: 12.5em;
-}
-#rounded-corners {
-   border-radius: 12.5em;
+header{
+  height: 100px;
+  width: 500px;
+  
+  padding: 20px;
+  background: #4da6ff;
+  color: white;
 }
 
 
