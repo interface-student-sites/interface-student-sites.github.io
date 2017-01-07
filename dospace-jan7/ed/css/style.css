@@ -9,5 +9,15 @@ a {
 }
 
 a:hover {
-  background: yellow
+  background: yellow;
+}
+
+img {
+  height: 12.5em;
+  width: 12.5em
+}
+
+#rounded-corners {
+  border-radius: 12.5em;
+}
     
