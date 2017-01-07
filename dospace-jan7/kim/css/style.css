@@ -11,3 +11,8 @@ a {
 a:hover {
   background: green;
 }
+
+img {
+ height: 12.5em;
+ width: 12.5em; 
+  
