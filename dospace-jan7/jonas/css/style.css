@@ -18,6 +18,11 @@ section {
   height:500px;
   background: pink;
 }
+img {
+  height: 200px;
+  width: 200px;
+}
+
 
 footer {
   clear: both;
