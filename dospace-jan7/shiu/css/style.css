@@ -5,9 +5,19 @@ selector {
 */
 
 header {
- height: 100px;
-  width: 500px;
+  height: 100px;
+  width: 1000px;
   padding: 20px;
   background: #e600e6;
   color: black;
+  font-size: 30px;
+  text-align: center;
 }
+
+nav {
+  height: 500px;
+  width: 20%;
+  background: gray;
+  color: purple;
+}
+
