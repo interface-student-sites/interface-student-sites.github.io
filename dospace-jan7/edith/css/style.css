@@ -8,7 +8,7 @@ header, footer {
   width: 500px;
   padding: 20px;
   background: #33cc33;
-  color: white;
+  color: purple;
   font-size: 30px;
   text-align: center;
 }
@@ -17,13 +17,19 @@ nav {
   width: 20%;
   height: 500px;
   background: blue;
-  color: white;
+  color: purple;
+  padding-left: 20px;
 }
 
 section {
   width: 80%;
   height: 500px;
   background: pink;
+}
+
+img {
+  height: 200px;
+  width: 200px;
 }
 
 footer {
