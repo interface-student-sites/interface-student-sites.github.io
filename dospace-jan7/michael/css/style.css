@@ -22,11 +22,25 @@ img {
   height: 12.5em;
   width: 12.5em;
 }
-
-#rounded-corners {
-  border-radius: 24px;
-}
   
-#circle-crop {
+#crop-circle {
   border-radius: 12.5em;
+}
+
+header {
+  height: 128px;
+  width: 512px;
+  padding: 32px;
+  background: #ffffff;
+  color: black
+}
+
+nav
+
+section
+
+footer
+
+#standard-paragraph-1 {
+  x
 }
