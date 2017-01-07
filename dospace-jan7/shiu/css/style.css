@@ -21,3 +21,10 @@ nav {
   color: purple;
 }
 
+section {
+ width: 80%;
+  height: 500px;
+  background: pink;
+}
+
+
