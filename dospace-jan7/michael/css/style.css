@@ -30,8 +30,8 @@ header, footer {
   height: 128px;
   width: 100%;
   padding: 32px;
-  background: #ffffff;
-  color: black;
+  background: black;
+  color: orange;
   font-size: 48px;
   text-align: center;
 }
