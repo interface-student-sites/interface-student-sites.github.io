@@ -18,12 +18,18 @@ nav {
   height: 500px
   background: black;
   color: pink;
+  padding-left: 20px;
 }
 
 Section {
   width: 80%;
   height: 500px;
   background: gray;
+}
+
+img {
+  height: 200px;
+  width: 200px;
 }
   
 footer {
