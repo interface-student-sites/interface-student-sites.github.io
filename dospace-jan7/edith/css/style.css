@@ -33,5 +33,11 @@ img {
 }
 
 footer {
-  clear: both;
+ height: 200px;
+  width: 100%;
+  padding: 20px;
+  background: pink;
+  color: purple;
+  font-size: 30px;
+  text-align: center;
 }
