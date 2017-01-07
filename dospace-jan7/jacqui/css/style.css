@@ -9,13 +9,13 @@ header,footer {
   padding: 20px;
   background: blue;
   color: white;
-  font-size: 30px
+  font-size: 30px;
   text-align: center;
 }
 
 nav {
-  width: 20%
-    height: 500px
+  width: 20%;
+    height: 500px;
   background: gray;
   color: purple;
   padding-left; 20px;
