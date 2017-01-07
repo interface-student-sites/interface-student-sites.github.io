@@ -4,9 +4,13 @@ selector {
 }
 */
 
+body {
+  background: url(https://static.pexels.com/photos/84941/pexels-photo-84941.jpeg);
+}
+  
 header, footer {
   height: 100px;
-  width: 1000px;
+  width: 100%;
   padding: 20px;
   background: #e600e6;
   color: black;
@@ -19,15 +23,14 @@ nav {
   width: 20%;
   background: gray;
   color: purple;
-  padding-left: 20px;
   float:left;
 }
 
 section {
-  width: 70%;
+  width: 80%;
   height: 500px;
   background: pink;
-  float:right;
+  float:left;
 }
 
 img {
