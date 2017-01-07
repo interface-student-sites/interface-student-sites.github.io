@@ -23,5 +23,7 @@ img {
   width: 12.5em;
 }
 
-rounded-corners {
+#rounded-corners {
+  border-radius: 24px;
+}
   
