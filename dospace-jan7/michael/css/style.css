@@ -29,13 +29,20 @@ img {
 
 header {
   height: 128px;
-  width: 512px;
+  width: 1024px;
   padding: 32px;
   background: #ffffff;
-  color: black
+  color: black;
+  font-size: 48px;
+  text-align: center;
 }
 
-nav
+nav {
+  width:20%;
+  height: 500px;
+  background: grey;
+  color: black;
+  
 
 section
 
