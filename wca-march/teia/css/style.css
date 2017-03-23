@@ -1,1 +1,12 @@
-test file
+/* selector
+property: value;
+*/
+h1 {
+  font-size: 60px;
+  color:green;
+  font-size:1em;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
