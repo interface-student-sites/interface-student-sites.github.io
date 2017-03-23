@@ -1,3 +1,8 @@
+body {
+  background: url('https://static.pexels.com/photos/132204/pexels-photo-132204.jpeg');
+  background-size: cover;
+}
+
 /* selector
 property: value;
 */
