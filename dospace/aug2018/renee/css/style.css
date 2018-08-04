@@ -1,7 +1,23 @@
 header {
- background: gold;
+ background: celadon;
   color: grey;
   font-size: 2em;
   text-align:center;
   
+}
+
+img{
+ height: 10em;
+ width: 12em;
+ }
+img:hover {
+ border-radius: 2em;
+}
+
+p { 
+ font-size: 2em;
+ font-style: italic;
+}
+#red-paragraph {
+ color:grey
 }
