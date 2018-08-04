@@ -14,3 +14,12 @@ img {
 img:hover {
   border-radius: 2em;
 }
+
+p {
+  font-style: italic;
+  font-size: 2em;
+}
+
+#blue-paragraph {
+  color:blue;
+}
