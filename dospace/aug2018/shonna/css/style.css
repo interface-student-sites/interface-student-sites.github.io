@@ -1,1 +1,7 @@
-
+header {
+ background:blue;
+ color:white;
+ font-size:2em;
+ text-align:center;
+ /* here are some comments */
+}
