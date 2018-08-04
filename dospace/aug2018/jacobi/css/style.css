@@ -21,7 +21,7 @@ img {
 p {
   font-family:
   font-size: 20px;
-  font-style: italic;
+  font-style: italic; bold;
 }
 #blue-paragraph {
    color:blue;
