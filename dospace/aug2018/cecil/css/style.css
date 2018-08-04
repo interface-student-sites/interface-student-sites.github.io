@@ -12,12 +12,12 @@ img {
 }
 
 img;hover {
-  border-radius: 2em;
+  border-radius:2em;
 }
 
 p {
  font-size:2em;
- font-style: italic;
+ font-style:italic;
 }
 
 #blue-paragraph {
