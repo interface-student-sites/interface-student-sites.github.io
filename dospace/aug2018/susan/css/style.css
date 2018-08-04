@@ -1,1 +1,7 @@
-
+header {
+  background:blue;
+  colo:white;
+  font-size:2em;
+  text-align:center;
+  /*comments*/
+}
