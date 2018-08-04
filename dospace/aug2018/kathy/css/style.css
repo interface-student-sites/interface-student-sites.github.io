@@ -8,4 +8,5 @@ header {
 img {
   height:10em;
   weight:12em;
+  border-radius:2em;
 }
