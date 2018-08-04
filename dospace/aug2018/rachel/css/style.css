@@ -1,1 +1,6 @@
-
+header {
+  background: blue;
+  color: white;
+  font-size: 2em; /*1em is equal to 16 pixles*/
+  text-align: center;
+}
