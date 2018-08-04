@@ -4,3 +4,21 @@ header {
   font-size: 2em; /*1em is equal to 16 pixles*/
   text-align: center;
 }
+
+img {
+  height:10em;
+  width:12em;
+}
+
+img:hover {
+ border-radius:2em;
+}
+
+p {
+ font-size:2em;
+ font-style: italic;
+}
+
+#blue {
+ color:blue;
+}
