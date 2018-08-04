@@ -2,8 +2,23 @@ header {
   background:blue;
    color:white;
     font-size:2em;
-    text-align;center;
+    text-align:center;
     /* here are some comments*/
-  
+
+}
+
+  img{
+    height:10em;
+    width:12em;
+    border-radius:2em;
     
+}
+
+p {
+  font-size:2em;
+  font-style: italic; 
+}
+
+#blue-paragraph {
+  color:blue;
 }
