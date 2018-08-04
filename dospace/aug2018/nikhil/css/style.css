@@ -10,3 +10,7 @@ img {
   height: 10em;
   width: 12em;
 }
+
+img:hover {
+  border-radius: 2em;
+}
