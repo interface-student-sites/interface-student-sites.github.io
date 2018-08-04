@@ -2,6 +2,10 @@ header {
   background:blue;
   color:white;
   font-size:2em;/*32 pixels*/
-  text-align:center;
-  
+  text-align:center;  
+}
+
+img {
+  height:10em;
+  weight:12em;
 }
