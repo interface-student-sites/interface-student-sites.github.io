@@ -11,8 +11,9 @@ img {
  height:10em;
  width:12em;
  border-radius:2em;
- border-width:5em;
+ border-width:2em;
  border-style:solid;
+ border-color:green;
 }
  img hover {
    border-radius: 2em;
