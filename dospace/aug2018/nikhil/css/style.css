@@ -5,3 +5,8 @@ font-size: 2em;
 /* 1em = 16 px */
 text-align: center;
 }
+
+img {  
+  height: 10em;
+  width: 12em;
+}
