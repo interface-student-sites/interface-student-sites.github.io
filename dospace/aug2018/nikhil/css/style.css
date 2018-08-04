@@ -1,1 +1,6 @@
-
+header {
+background:blue;
+color:white;
+font-size: 2em;
+/* 1em = 16 px */
+}
