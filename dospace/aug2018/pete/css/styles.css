@@ -1,1 +1,27 @@
+header {
+    background:blue;
+    color:white;
+    font-size:2em;
+    text-align:center;
+  /*some comments*/
+}
+    
+  img {
+      height:10em
+      width:12em;
+}
+      
+  img:hover {
+    border-radius:3em;
+}
+      
+   p {
+    font-size:2em;
+    font-style: italic;
+}
 
+  #blue-paragraph {
+    color:blue;
+}
+      
+      
