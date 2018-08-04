@@ -14,8 +14,9 @@ img {
 img:hover {
     border-radius:2em;
 }
-p{
-  font-size"2md;
+
+p {
+  font-size:2em;
   font-style: italic;
 }
 #blue-paragraph{
